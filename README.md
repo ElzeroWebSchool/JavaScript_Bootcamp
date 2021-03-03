@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![50%](https://progress-bar.dev/20)
+![50%](https://progress-bar.dev/10/?title=Completed)
 
 ### Introduction
 
