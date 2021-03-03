@@ -62,12 +62,13 @@ JavaScript Bootcamp Content
 - [ ] Arrow Function
 - [ ] Default Parameters
 - [ ] Rest Parameters
+- [ ] Higher Order Function
 - [ ] Function Challenges
 
 ### Arrays
 
 - [ ] Array Intro
-- [ ] Adding Removing From Arrays
+- [ ] Adding And Removing From Arrays
 - [ ] Searching Arrays
 - [ ] Modifying Arrays
 - [ ] Slicing And Joining Arrays
@@ -80,5 +81,14 @@ JavaScript Bootcamp Content
 
 - [ ] For Loop
 - [ ] Looping On Arrays
-- [ ] While Loop
+- [ ] Nested For Loop
+- [ ] While And Do While Loop
+- [ ] Control Loop - Break, Continue, Label
 - [ ] ForEach Loop
+- [ ] Loop Challenges
+
+### Object 
+
+- [ ] Objects Intro
+- [ ] Play With Window Object
+- [ ] 
