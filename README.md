@@ -16,16 +16,25 @@ JavaScript Bootcamp Content
 
 ### Data Types And Variables
 
-- [ ] What Is Data Types ?
+- [ ] JavaScript Primitive Data Types
+- [ ] Typeof Operator
 - [ ] Variable Introduction
 - [ ] Var, Let, Const
 - [ ] Variables Scope Part 1
 - [ ] Variables Scope Part 2
 - [ ] Concatenations
+- [ ] Template Literals
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
 - [ ] Bitwise Operators
 - [ ] Data Types And Variables Challenges
+
+## Dealing With Data
+
+- [ ] JavaScript Number + Methods
+- [ ] JavaScript String + Methods
+- [ ] JavaScript Boolean
+- [ ] Data Type Methods Challenges
 
 ### Control Flow
 
@@ -37,3 +46,9 @@ JavaScript Bootcamp Content
 - [ ] Comparison Operators
 - [ ] Logical Operators
 - [ ] Control Flow Challenges
+
+### Functions
+
+- [ ] User Defined vs Built In Functions
+- [ ] Function With Parameter
+- [ ] Advanced Functions Training
