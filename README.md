@@ -2,6 +2,8 @@
 
 # JavaScript Bootcamp Content
 
+![50%](https://progress-bar.dev/20)
+
 ### Introduction
 
 - [ ] Introduction And What Is JavaScript ?
