@@ -1,8 +1,6 @@
 ![JavaScript Bootcamp](https://elzero.org/js.png)
 
-# JavaScript_Bootcamp
-
-JavaScript Bootcamp Content
+# JavaScript Bootcamp Content
 
 ### Introduction
 
