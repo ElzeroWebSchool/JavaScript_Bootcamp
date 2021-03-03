@@ -27,7 +27,9 @@ JavaScript Bootcamp Content
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
 - [ ] Bitwise Operators
-- [ ] Data Types And Variables Challenges
+- [ ] Type Coercion
+- [ ] Hoisting
+- [ ] Data Types And Variables Challenges [ 2 Challenges ]
 
 ## Dealing With Data
 
@@ -35,7 +37,7 @@ JavaScript Bootcamp Content
 - [ ] JavaScript String + Methods Part 1
 - [ ] JavaScript String + Methods Part 2 
 - [ ] JavaScript Boolean
-- [ ] Data Type Methods Challenges
+- [ ] Data Type Methods Challenges [ 5 Challenges ]
 
 ### Control Flow
 
@@ -48,12 +50,12 @@ JavaScript Bootcamp Content
 - [ ] Switch Statement
 - [ ] Comparison Operators
 - [ ] Logical Operators
-- [ ] Control Flow Challenges
+- [ ] Control Flow Challenges [ 5 Challenges ]
 
 ### Functions
 
 - [ ] Function Basic User Defined vs Built In
-- [ ] Function Return And Use Cases
+- [ ] Function Return Statement And Use Cases
 - [ ] Function With Parameter
 - [ ] Advanced Functions Training
 - [ ] Self Invoked Function
@@ -62,8 +64,9 @@ JavaScript Bootcamp Content
 - [ ] Arrow Function
 - [ ] Default Parameters
 - [ ] Rest Parameters
+- [ ] Destructuring Function Parameters
 - [ ] Higher Order Function
-- [ ] Function Challenges
+- [ ] Function Challenges [ 5 Challenges ]
 
 ### Arrays
 
@@ -75,7 +78,8 @@ JavaScript Bootcamp Content
 - [ ] Filtring Arrays
 - [ ] Sorting Arrays
 - [ ] Arrays And Nested Arrays
-- [ ] Arrays Challenges
+- [ ] Destructuring Arrays
+- [ ] Arrays Challenges [ 5 Challenges ]
 
 ### Loop
 
@@ -85,7 +89,7 @@ JavaScript Bootcamp Content
 - [ ] While And Do While Loop
 - [ ] Control Loop - Break, Continue, Label
 - [ ] ForEach Loop
-- [ ] Loop Challenges
+- [ ] Loop Challenges [ 5 Challenges ]
 
 ### Object 
 
@@ -105,5 +109,11 @@ JavaScript Bootcamp Content
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
+- [ ] Destructuring Object
+- [ ] Object Challenges [ 5 Challenges ]
 
+### Document Object Model [DOM]
 
+- [ ] Manipulating The DOM
+
+### Browser Object Model [BOM]
