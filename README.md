@@ -64,8 +64,21 @@ JavaScript Bootcamp Content
 - [ ] Rest Parameters
 - [ ] Function Challenges
 
-## Arrays
+### Arrays
 
 - [ ] Array Intro
-- [ ] Array Methods Part 1
-- [ ] Array Methods Part 2
+- [ ] Adding Removing From Arrays
+- [ ] Searching Arrays
+- [ ] Modifying Arrays
+- [ ] Slicing And Joining Arrays
+- [ ] Filtring Arrays
+- [ ] Sorting Arrays
+- [ ] Arrays And Nested Arrays
+- [ ] Arrays Challenges
+
+### Loop
+
+- [ ] For Loop
+- [ ] Looping On Arrays
+- [ ] While Loop
+- [ ] ForEach Loop
