@@ -23,7 +23,7 @@ JavaScript Bootcamp Content
 - [ ] Variables Scope Part 1
 - [ ] Variables Scope Part 2
 - [ ] Concatenations
-- [ ] Template Literals **[ES6]**
+- [ ] Template Literals
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
 - [ ] Bitwise Operators
@@ -33,7 +33,7 @@ JavaScript Bootcamp Content
 
 - [ ] JavaScript Number + Methods
 - [ ] JavaScript String + Methods Part 1
-- [ ] JavaScript String + Methods Part 2 **[ES6]**
+- [ ] JavaScript String + Methods Part 2 
 - [ ] JavaScript Boolean
 - [ ] Data Type Methods Challenges
 
@@ -44,6 +44,7 @@ JavaScript Bootcamp Content
 - [ ] Ternary Conditional Operator
 - [ ] Advanced If Conditions Example
 - [ ] Equals And Identicals
+- [ ] Truthy Falsy Pattern
 - [ ] Switch Statement
 - [ ] Comparison Operators
 - [ ] Logical Operators
@@ -51,11 +52,20 @@ JavaScript Bootcamp Content
 
 ### Functions
 
-- [ ] User Defined vs Built In Functions
-- [ ] Function Return And USe Cases
+- [ ] Function Basic User Defined vs Built In
+- [ ] Function Return And Use Cases
 - [ ] Function With Parameter
 - [ ] Advanced Functions Training
 - [ ] Self Invoked Function
-- [ ] Arrow Function **[ES6]**
-- [ ] Default Parameters **[ES6]**
-- [ ] Rest Parameters **[ES6]**
+- [ ] Local And Global Scope
+- [ ] This Keyword
+- [ ] Arrow Function
+- [ ] Default Parameters
+- [ ] Rest Parameters
+- [ ] Function Challenges
+
+## Arrays
+
+- [ ] Array Intro
+- [ ] Array Methods Part 1
+- [ ] Array Methods Part 2
