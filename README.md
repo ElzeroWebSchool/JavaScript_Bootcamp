@@ -21,11 +21,11 @@ JavaScript Bootcamp Content
 - [ ] Concatenations
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
-- [ ] Comparison Operators
-- [ ] Logical Operators
 - [ ] Bitwise Operators
 
 ### Control Flow
 
 - [ ] If Conditions
 - [ ] Switch Statement
+- [ ] Comparison Operators
+- [ ] Logical Operators
