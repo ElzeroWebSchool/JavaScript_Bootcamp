@@ -1,4 +1,4 @@
-![JavaScript Bootcamp](https://elzero.org/js-bootcamp.png)
+![JavaScript Bootcamp](https://elzero.org/js.png)
 
 # JavaScript_Bootcamp
 
