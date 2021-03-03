@@ -91,4 +91,19 @@ JavaScript Bootcamp Content
 
 - [ ] Objects Intro
 - [ ] Play With Window Object
-- [ ] 
+- [ ] Creating Object With Object Literals
+- [ ] Dot Notation vs Bracket Notation
+- [ ] More Methods To Create Object
+- [ ] Looping On Object Properties
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+
+
