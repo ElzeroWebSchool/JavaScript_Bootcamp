@@ -6,7 +6,7 @@
 
 ### Introduction
 
-- [ ] Introduction And What Is JavaScript ?
+- [x] Introduction And What Is JavaScript ?
 - [ ] What You Will Learn ?
 - [ ] Setting Up Environment And Tools
 - [ ] How To Study The Course ?
@@ -37,7 +37,7 @@
 
 - [ ] JavaScript Number + Methods
 - [ ] JavaScript String + Methods Part 1
-- [ ] JavaScript String + Methods Part 2 
+- [ ] JavaScript String + Methods Part 2
 - [ ] JavaScript Boolean
 - [ ] Data Type Methods Challenges [ 5 Challenges ]
 
@@ -93,7 +93,7 @@
 - [ ] ForEach Loop
 - [ ] Loop Challenges [ 5 Challenges ]
 
-### Object 
+### Object
 
 - [ ] Objects Intro
 - [ ] Play With Window Object
@@ -151,7 +151,7 @@
 - [ ] Cookies Part 1
 - [ ] Cookies Part 2
 
-### Date 
+### Date
 
 ### Data And Storage
 
@@ -189,7 +189,7 @@
 
 ### Regular Expressions
 
-### Practical Apps 
+### Practical Apps
 
 - [ ] Bookmark Application [ 6 Videos ]
 - [ ] Sticky Notes [ 8 Videos ]
