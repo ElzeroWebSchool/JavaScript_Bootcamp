@@ -7,8 +7,8 @@
 ### Introduction
 
 - [x] Introduction And What Is JavaScript ?
-- [ ] What You Will Learn ?
-- [ ] Setting Up Environment And Tools
+- [x] What You Will Learn ?
+- [x] Setting Up Environment And Tools
 - [ ] How To Study The Course ?
 - [ ] JavaScript Syntax
 - [ ] Work With Chrome Developer Tools
