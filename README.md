@@ -4,8 +4,8 @@
 
 ## Statistics 
 
-![50%](https://progress-bar.dev/25/?title=Organizing)
-![2%](https://progress-bar.dev/25/?title=Recording)
+![50%](https://progress-bar.dev/40/?title=Organizing)
+![2%](https://progress-bar.dev/2/?title=Recording)
 
 ### Introduction
 
