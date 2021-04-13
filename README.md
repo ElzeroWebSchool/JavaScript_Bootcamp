@@ -2,7 +2,10 @@
 
 # JavaScript Bootcamp Content
 
-![50%](https://progress-bar.dev/25/?title=Completed)
+## Statistics 
+
+![50%](https://progress-bar.dev/25/?title=Organizing)
+![2%](https://progress-bar.dev/25/?title=Recording)
 
 ### Introduction
 
