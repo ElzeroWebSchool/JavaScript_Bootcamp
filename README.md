@@ -10,11 +10,10 @@
 ### Introduction
 
 - [x] Introduction And What Is JavaScript ?
-- [x] What You Will Learn ?
-- [x] Setting Up Environment And Tools
-- [ ] How To Study The Course ?
-- [ ] JavaScript Syntax
+- [x] How To Study The Course ?
+- [ ] Setting Up Environment And Tools
 - [ ] Work With Chrome Developer Tools
+- [ ] JavaScript Syntax
 - [ ] Comments
 - [ ] Output To Screen
 - [ ] What Is ECMAScript
