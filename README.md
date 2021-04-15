@@ -2,10 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-## Statistics 
-
-![50%](https://progress-bar.dev/40/?title=Organizing)
-![2%](https://progress-bar.dev/2/?title=Recording)
+![2%](https://progress-bar.dev/2/?title=Recorded)
 
 ### Introduction
 
@@ -13,9 +10,10 @@
 - [x] How To Study The Course ?
 - [ ] Setting Up Environment And Tools
 - [ ] Work With Chrome Developer Tools
-- [ ] JavaScript Syntax
+- [ ] JavaScript Syntax And Where To Put The Code
 - [ ] Comments
 - [ ] Output To Screen
+- [ ] Console Methods
 - [ ] What Is ECMAScript
 
 ### Data Types And Variables
