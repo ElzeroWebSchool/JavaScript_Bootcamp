@@ -2,15 +2,15 @@
 
 # JavaScript Bootcamp Content
 
-![2%](https://progress-bar.dev/2/?title=Recorded)
+![5%](https://progress-bar.dev/5/?title=Recorded)
 
 ### Introduction
 
 - [x] Introduction And What Is JavaScript ?
 - [x] How To Study The Course ?
-- [ ] Setting Up Environment And Tools
-- [ ] Work With Chrome Developer Tools
-- [ ] JavaScript Syntax And Where To Put The Code
+- [x] Setting Up Environment And Tools
+- [x] Work With Chrome Developer Tools
+- [x] JavaScript Code Location And Best Practices
 - [ ] Comments
 - [ ] Output To Screen
 - [ ] Console Methods
