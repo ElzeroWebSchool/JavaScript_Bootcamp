@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![5%](https://progress-bar.dev/5/?title=Recorded)
+![6%](https://progress-bar.dev/6/?title=Recorded)
 
 ### Introduction
 
@@ -11,7 +11,7 @@
 - [x] Setting Up Environment And Tools
 - [x] Work With Chrome Developer Tools
 - [x] JavaScript Code Location And Best Practices
-- [ ] Comments
+- [x] JavaScript Comments And Bad Practices
 - [ ] Output To Screen
 - [ ] Console Methods
 - [ ] What Is ECMAScript
