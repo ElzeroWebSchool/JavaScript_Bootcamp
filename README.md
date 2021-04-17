@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![6%](https://progress-bar.dev/6/?title=Recorded)
+![9%](https://progress-bar.dev/9/?title=Recorded)
 
 ### Introduction
 
@@ -14,7 +14,7 @@
 - [x] JavaScript Comments And Bad Practices
 - [x] Output To Screen
 - [x] Console Methods And Styling And WebAPI
-- [ ] What Is ECMAScript
+- [x] What Is ECMAScript ?
 
 ### Data Types And Variables
 
