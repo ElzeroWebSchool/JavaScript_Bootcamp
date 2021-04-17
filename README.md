@@ -10,9 +10,9 @@
 - [x] How To Study The Course ?
 - [x] Setting Up Environment And Tools
 - [x] Work With Chrome Developer Tools
-- [x] JavaScript Code Location And Best Practices
+- [x] Where To Put The Code ?
 - [x] JavaScript Comments And Bad Practices
-- [ ] Output To Screen
+- [x] Output To Screen
 - [ ] Console Methods
 - [ ] What Is ECMAScript
 
