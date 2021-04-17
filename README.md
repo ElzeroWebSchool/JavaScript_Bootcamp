@@ -19,11 +19,10 @@
 ### Data Types And Variables
 
 - [ ] JavaScript Primitive Data Types
-- [ ] Typeof Operator
 - [ ] Variable Introduction
-- [ ] Var, Let, Const
 - [ ] Variables Scope Part 1
 - [ ] Variables Scope Part 2
+- [ ] Var, Let, Const Compare
 - [ ] Concatenations
 - [ ] Template Literals
 - [ ] Assignment Operators
