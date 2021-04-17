@@ -13,7 +13,7 @@
 - [x] Where To Put The Code ?
 - [x] JavaScript Comments And Bad Practices
 - [x] Output To Screen
-- [ ] Console Methods
+- [x] Console Methods And Styling And WebAPI
 - [ ] What Is ECMAScript
 
 ### Data Types And Variables
