@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![9%](https://progress-bar.dev/9/?title=Recorded)
+![12%](https://progress-bar.dev/12/?title=Recorded)
 
 ### Introduction
 
@@ -19,12 +19,12 @@
 ### Data Types And Variables
 
 - [x] Data Types And Typeof Operator
-- [ ] Variable Introduction
-- [ ] Identifiers Name Convention And Rules
-- [ ] Variables Scope Part 1
-- [ ] Variables Scope Part 2
+- [x] Variable Introduction
+- [x] Identifiers Name Convention And Rules
 - [ ] Var, Let, Const Compare
 - [ ] Concatenations
+- [ ] Variables Scope Part 1
+- [ ] Variables Scope Part 2
 - [ ] Template Literals
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
