@@ -20,6 +20,7 @@
 
 - [x] Data Types And Typeof Operator
 - [ ] Variable Introduction
+- [ ] Identifiers Name Convention And Rules
 - [ ] Variables Scope Part 1
 - [ ] Variables Scope Part 2
 - [ ] Var, Let, Const Compare
