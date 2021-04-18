@@ -23,8 +23,6 @@
 - [x] Identifiers Name Convention And Rules
 - [ ] Var, Let, Const Compare
 - [ ] Concatenations
-- [ ] Variables Scope Part 1
-- [ ] Variables Scope Part 2
 - [ ] Template Literals
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
