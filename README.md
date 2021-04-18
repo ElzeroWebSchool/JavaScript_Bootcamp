@@ -18,7 +18,7 @@
 
 ### Data Types And Variables
 
-- [ ] JavaScript Primitive Data Types
+- [x] Data Types And Typeof Operator
 - [ ] Variable Introduction
 - [ ] Variables Scope Part 1
 - [ ] Variables Scope Part 2
