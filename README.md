@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![12%](https://progress-bar.dev/12/?title=Recorded)
+![16%](https://progress-bar.dev/16/?title=Recorded)
 
 ### Introduction
 
@@ -22,15 +22,15 @@
 - [x] Variable Introduction
 - [x] Identifiers Name Convention And Rules
 - [x] Var, Let, Const Compare
-- [ ] String Syntax + Character Escape Sequences
-- [ ] Concatenations
-- [ ] Template Literals
+- [x] String Syntax + Character Escape Sequences
+- [x] Concatenations
+- [x] Template Literals (Template Strings)
+- [ ] Challenge 1 ( Create Page )
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
 - [ ] Bitwise Operators
 - [ ] Type Coercion
 - [ ] Hoisting
-- [ ] Data Types And Variables Challenges [ 2 Challenges ]
 
 ## Dealing With Data
 
