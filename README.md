@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![16%](https://progress-bar.dev/16/?title=Recorded)
+![17%](https://progress-bar.dev/17/?title=Recorded)
 
 ### Introduction
 
@@ -25,7 +25,7 @@
 - [x] String Syntax + Character Escape Sequences
 - [x] Concatenations
 - [x] Template Literals (Template Strings)
-- [ ] Challenge 1 ( Create Page )
+- [x] Variable And Concatenation Challenge
 - [ ] Assignment Operators
 - [ ] Arithmetic Operators
 - [ ] Bitwise Operators
