@@ -22,7 +22,7 @@
 - [x] Variable Introduction
 - [x] Identifiers Name Convention And Rules
 - [x] Var, Let, Const Compare
-- [ ] String Syntax + Escape Operator
+- [ ] String Syntax + Character Escape Sequences
 - [ ] Concatenations
 - [ ] Template Literals
 - [ ] Assignment Operators
