@@ -21,7 +21,8 @@
 - [x] Data Types And Typeof Operator
 - [x] Variable Introduction
 - [x] Identifiers Name Convention And Rules
-- [ ] Var, Let, Const Compare
+- [x] Var, Let, Const Compare
+- [ ] String Syntax + Escape Operator
 - [ ] Concatenations
 - [ ] Template Literals
 - [ ] Assignment Operators
