@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![18%](https://progress-bar.dev/18/?title=Recorded)
+![19%](https://progress-bar.dev/19/?title=Recorded)
 
 ### Introduction
 
@@ -27,7 +27,7 @@
 - [x] Template Literals (Template Strings)
 - [x] Variable And Concatenation Challenge
 - [x] Arithmetic Operators
-- [ ] Unary Operators
+- [x] Unary Operators
 - [ ] Assignment Operators
 - [ ] Type Coercion
 - [ ] Hoisting
