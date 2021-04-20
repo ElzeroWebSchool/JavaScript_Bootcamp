@@ -28,9 +28,8 @@
 - [x] Variable And Concatenation Challenge
 - [x] Arithmetic Operators
 - [x] Unary Operators
+- [x] Type Coercion
 - [ ] Assignment Operators
-- [ ] Type Coercion
-- [ ] Hoisting
 
 ## Dealing With Data
 
