@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![19%](https://progress-bar.dev/19/?title=Recorded)
+![22%](https://progress-bar.dev/22/?title=Recorded)
 
 ### Introduction
 
@@ -29,7 +29,8 @@
 - [x] Arithmetic Operators
 - [x] Unary Operators
 - [x] Type Coercion
-- [ ] Assignment Operators
+- [x] Assignment Operators
+- [x] Operators Challenge
 
 ## Dealing With Data
 
