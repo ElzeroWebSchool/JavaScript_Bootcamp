@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![24%](https://progress-bar.dev/24/?title=Recorded)
+![26%](https://progress-bar.dev/26/?title=Recorded)
 
 ### Introduction
 
@@ -37,10 +37,10 @@
 - [x] Number
 - [x] Number Methods
 - [x] Math Object
+- [x] Number Challenge
 - [ ] JavaScript String + Methods Part 1
 - [ ] JavaScript String + Methods Part 2
 - [ ] JavaScript Boolean
-- [ ] Data Type Methods Challenges [ 5 Challenges ]
 
 ### Control Flow
 
