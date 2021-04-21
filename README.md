@@ -36,7 +36,7 @@
 
 - [x] Number
 - [x] Number Methods
-- [ ] Math Object
+- [x] Math Object
 - [ ] JavaScript String + Methods Part 1
 - [ ] JavaScript String + Methods Part 2
 - [ ] JavaScript Boolean
