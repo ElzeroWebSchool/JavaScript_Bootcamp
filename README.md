@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![22%](https://progress-bar.dev/22/?title=Recorded)
+![24%](https://progress-bar.dev/24/?title=Recorded)
 
 ### Introduction
 
@@ -34,7 +34,9 @@
 
 ## Dealing With Data
 
-- [ ] JavaScript Number + Methods
+- [x] Number
+- [x] Number Methods
+- [ ] Math Object
 - [ ] JavaScript String + Methods Part 1
 - [ ] JavaScript String + Methods Part 2
 - [ ] JavaScript Boolean
