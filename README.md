@@ -38,9 +38,11 @@
 - [x] Number Methods
 - [x] Math Object
 - [x] Number Challenge
-- [ ] JavaScript String + Methods Part 1
-- [ ] JavaScript String + Methods Part 2
+- [ ] String Methods Part 1
+- [ ] String Methods Part 2
+- [ ] String Methods Part 3
 - [ ] JavaScript Boolean
+- [ ] Strings Challenge
 
 ### Control Flow
 
