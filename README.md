@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![26%](https://progress-bar.dev/26/?title=Recorded)
+![28%](https://progress-bar.dev/28/?title=Recorded)
 
 ### Introduction
 
@@ -38,8 +38,8 @@
 - [x] Number Methods
 - [x] Math Object
 - [x] Number Challenge
-- [ ] String Methods Part 1
-- [ ] String Methods Part 2
+- [x] String Methods Part 1
+- [x] String Methods Part 2
 - [ ] String Methods Part 3
 - [ ] JavaScript Boolean
 - [ ] Strings Challenge
