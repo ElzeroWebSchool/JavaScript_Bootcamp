@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![29%](https://progress-bar.dev/29/?title=Recorded)
+![30%](https://progress-bar.dev/30/?title=Recorded)
 
 ### Introduction
 
@@ -41,7 +41,20 @@
 - [x] String Methods Part 1
 - [x] String Methods Part 2
 - [x] String Methods Part 3
-- [ ] Strings Challenge
+- [x] Strings Challenge
+
+### Arrays
+
+- [ ] Array Intro
+- [ ] Adding And Removing From Arrays
+- [ ] Searching Arrays
+- [ ] Modifying Arrays
+- [ ] Slicing And Joining Arrays
+- [ ] Filtring Arrays
+- [ ] Sorting Arrays
+- [ ] Arrays And Nested Arrays
+- [ ] Destructuring Arrays
+- [ ] Arrays Challenges [ 5 Challenges ]
 
 ### Control Flow
 
@@ -71,19 +84,6 @@
 - [ ] Destructuring Function Parameters
 - [ ] Higher Order Function
 - [ ] Function Challenges [ 5 Challenges ]
-
-### Arrays
-
-- [ ] Array Intro
-- [ ] Adding And Removing From Arrays
-- [ ] Searching Arrays
-- [ ] Modifying Arrays
-- [ ] Slicing And Joining Arrays
-- [ ] Filtring Arrays
-- [ ] Sorting Arrays
-- [ ] Arrays And Nested Arrays
-- [ ] Destructuring Arrays
-- [ ] Arrays Challenges [ 5 Challenges ]
 
 ### Loop
 
