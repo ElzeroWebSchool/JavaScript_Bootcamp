@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![30%](https://progress-bar.dev/30/?title=Recorded)
+![31%](https://progress-bar.dev/31/?title=Recorded)
 
 ### Introduction
 
@@ -43,6 +43,18 @@
 - [x] String Methods Part 3
 - [x] Strings Challenge
 
+### Control Flow
+
+- [x] Comparison Operators
+- [ ] Logical Operators
+- [ ] If Conditions
+- [ ] Nested If
+- [ ] Ternary Conditional Operator
+- [ ] Advanced If Conditions Example
+- [ ] Truthy Falsy Pattern
+- [ ] Switch Statement
+- [ ] Control Flow Challenges [ 5 Challenges ]
+
 ### Arrays
 
 - [ ] Array Intro
@@ -55,19 +67,6 @@
 - [ ] Arrays And Nested Arrays
 - [ ] Destructuring Arrays
 - [ ] Arrays Challenges [ 5 Challenges ]
-
-### Control Flow
-
-- [ ] If Conditions
-- [ ] Nested If
-- [ ] Ternary Conditional Operator
-- [ ] Advanced If Conditions Example
-- [ ] Equals And Identicals
-- [ ] Truthy Falsy Pattern
-- [ ] Switch Statement
-- [ ] Comparison Operators
-- [ ] Logical Operators
-- [ ] Control Flow Challenges [ 5 Challenges ]
 
 ### Functions
 
