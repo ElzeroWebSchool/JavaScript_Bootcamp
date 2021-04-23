@@ -49,8 +49,7 @@
 - [x] Logical Operators
 - [x] If Conditions
 - [x] Nested If
-- [ ] Ternary Conditional Operator
-- [ ] Advanced If Conditions Example
+- [x] Conditional (Ternary) Operator
 - [ ] Truthy Falsy Pattern
 - [ ] Switch Statement
 - [ ] Control Flow Challenges [ 5 Challenges ]
