@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![34%](https://progress-bar.dev/34/?title=Recorded)
+![36%](https://progress-bar.dev/36/?title=Recorded)
 
 ### Introduction
 
@@ -50,7 +50,7 @@
 - [x] If Conditions
 - [x] Nested If
 - [x] Conditional (Ternary) Operator
-- [ ] Truthy Falsy Pattern
+- [x] Nullish Coalescing Operator And Logical Or
 - [ ] Switch Statement
 - [ ] Control Flow Challenges [ 5 Challenges ]
 
