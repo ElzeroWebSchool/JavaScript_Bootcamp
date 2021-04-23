@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![32%](https://progress-bar.dev/32/?title=Recorded)
+![34%](https://progress-bar.dev/34/?title=Recorded)
 
 ### Introduction
 
@@ -47,8 +47,8 @@
 
 - [x] Comparison Operators
 - [x] Logical Operators
-- [ ] If Conditions
-- [ ] Nested If
+- [x] If Conditions
+- [x] Nested If
 - [ ] Ternary Conditional Operator
 - [ ] Advanced If Conditions Example
 - [ ] Truthy Falsy Pattern
