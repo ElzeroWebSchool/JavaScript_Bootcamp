@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![31%](https://progress-bar.dev/31/?title=Recorded)
+![32%](https://progress-bar.dev/32/?title=Recorded)
 
 ### Introduction
 
@@ -46,7 +46,7 @@
 ### Control Flow
 
 - [x] Comparison Operators
-- [ ] Logical Operators
+- [x] Logical Operators
 - [ ] If Conditions
 - [ ] Nested If
 - [ ] Ternary Conditional Operator
