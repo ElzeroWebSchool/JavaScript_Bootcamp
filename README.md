@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![37%](https://progress-bar.dev/37/?title=Recorded)
+![39%](https://progress-bar.dev/39/?title=Recorded)
 
 ### Introduction
 
@@ -52,8 +52,8 @@
 - [x] Conditional (Ternary) Operator
 - [x] Nullish Coalescing Operator And Logical Or
 - [x] If Challenge
-- [ ] Switch Statement
-- [ ] Control Flow Challenges [ 5 Challenges ]
+- [x] Switch Statement
+- [x] Switch And If Challenges
 
 ### Arrays
 
