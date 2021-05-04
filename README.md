@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![42%](https://progress-bar.dev/42/?title=Recorded)
+![43%](https://progress-bar.dev/43/?title=Recorded)
 
 ### Introduction
 
@@ -60,7 +60,7 @@
 - [x] Array Big Intro
 - [x] Using Length With Array
 - [x] Adding And Removing From Arrays
-- [ ] Searching Arrays
+- [x] Searching Arrays
 - [ ] Sorting Arrays
 - [ ] Slicing And Joining Arrays
 - [ ] Filtring Arrays
