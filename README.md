@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![44%](https://progress-bar.dev/44/?title=Recorded)
+![45%](https://progress-bar.dev/45/?title=Recorded)
 
 ### Introduction
 
@@ -62,10 +62,20 @@
 - [x] Adding And Removing From Arrays
 - [x] Searching Arrays
 - [x] Sorting Arrays
-- [ ] Slicing And Joining Arrays
-- [ ] Filtring Arrays
+- [x] Slicing Arrays
+- [ ] Joining Arrays
 - [ ] Destructuring Arrays
 - [ ] Arrays Challenges [ 5 Challenges ]
+
+### Loop
+
+- [ ] For Loop
+- [ ] Looping On Arrays
+- [ ] Nested For Loop
+- [ ] While And Do While Loop
+- [ ] Control Loop - Break, Continue, Label
+- [ ] ForEach Loop
+- [ ] Loop Challenges [ 5 Challenges ]
 
 ### Functions
 
@@ -82,16 +92,6 @@
 - [ ] Destructuring Function Parameters
 - [ ] Higher Order Function
 - [ ] Function Challenges [ 5 Challenges ]
-
-### Loop
-
-- [ ] For Loop
-- [ ] Looping On Arrays
-- [ ] Nested For Loop
-- [ ] While And Do While Loop
-- [ ] Control Loop - Break, Continue, Label
-- [ ] ForEach Loop
-- [ ] Loop Challenges [ 5 Challenges ]
 
 ### Object
 
