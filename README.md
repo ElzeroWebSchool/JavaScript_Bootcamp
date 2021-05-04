@@ -58,6 +58,7 @@
 ### Arrays
 
 - [x] Array Big Intro
+- [x] Using Length With Array
 - [ ] Adding And Removing From Arrays
 - [ ] Searching Arrays
 - [ ] Modifying Arrays
