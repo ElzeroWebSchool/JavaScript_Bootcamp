@@ -61,11 +61,9 @@
 - [x] Using Length With Array
 - [x] Adding And Removing From Arrays
 - [ ] Searching Arrays
-- [ ] Modifying Arrays
+- [ ] Sorting Arrays
 - [ ] Slicing And Joining Arrays
 - [ ] Filtring Arrays
-- [ ] Sorting Arrays
-- [ ] Arrays And Nested Arrays
 - [ ] Destructuring Arrays
 - [ ] Arrays Challenges [ 5 Challenges ]
 
