@@ -64,7 +64,6 @@
 - [x] Sorting Arrays
 - [x] Slicing Arrays
 - [x] Joining Arrays And Elements
-- [ ] Destructuring Arrays
 - [ ] Arrays Challenges [ 5 Challenges ]
 
 ### Loop
@@ -92,6 +91,13 @@
 - [ ] Destructuring Function Parameters
 - [ ] Higher Order Function
 - [ ] Function Challenges [ 5 Challenges ]
+
+### Advanced Concepts
+
+- [ ] Spread Operator
+- [ ] Destructuring Arrays Part 1
+- [ ] Destructuring Arrays Part 2
+- [ ] Swap Variables
 
 ### Object
 
