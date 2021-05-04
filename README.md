@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![46%](https://progress-bar.dev/46/?title=Recorded)
+![47%](https://progress-bar.dev/47/?title=Recorded)
 
 ### Introduction
 
@@ -64,7 +64,7 @@
 - [x] Sorting Arrays
 - [x] Slicing Arrays
 - [x] Joining Arrays And Elements
-- [ ] Arrays Challenges [ 5 Challenges ]
+- [x] Arrays Challenges
 
 ### Loop
 
