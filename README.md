@@ -68,13 +68,20 @@
 
 ### Loop
 
-- [ ] For Loop
+- [ ] Loop For
 - [ ] Looping On Arrays
-- [ ] Nested For Loop
-- [ ] While And Do While Loop
-- [ ] Control Loop - Break, Continue, Label
-- [ ] ForEach Loop
+- [ ] Nested Loop 
+- [ ] Loop While And Do While
+- [ ] Loop Control - Break, Continue, Label
+- [ ] Loop ForEach 
 - [ ] Loop Challenges [ 5 Challenges ]
+
+### Practice 
+
+- [ ] Create Products Elements
+- [ ] --
+- [ ] --
+- [ ] --
 
 ### Functions
 
