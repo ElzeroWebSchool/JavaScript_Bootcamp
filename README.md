@@ -68,20 +68,16 @@
 
 ### Loop
 
-- [ ] Loop For
-- [ ] Looping On Arrays
-- [ ] Nested Loop 
-- [ ] Loop While And Do While
+- [ ] Loop For And Concept Of Loop
+- [ ] Loop On Sequences
 - [ ] Loop Control - Break, Continue, Label
+- [ ] Practice - Create Products Elements
+- [ ] Practice - Filter Friends And Add To Page
+- [ ] Nested Loop For
+- [ ] Loop For Advanced Examples
+- [ ] Loop While And Do While
 - [ ] Loop ForEach 
 - [ ] Loop Challenges [ 5 Challenges ]
-
-### Practice 
-
-- [ ] Create Products Elements
-- [ ] --
-- [ ] --
-- [ ] --
 
 ### Functions
 
