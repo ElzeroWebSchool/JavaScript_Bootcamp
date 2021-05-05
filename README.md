@@ -76,7 +76,6 @@
 - [ ] Nested Loop For
 - [ ] Loop For Advanced Examples
 - [ ] Loop While And Do While
-- [ ] Loop ForEach 
 - [ ] Loop Challenges [ 5 Challenges ]
 
 ### Functions
