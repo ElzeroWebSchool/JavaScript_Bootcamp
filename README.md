@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![47%](https://progress-bar.dev/47/?title=Recorded)
+![49%](https://progress-bar.dev/49/?title=Recorded)
 
 ### Introduction
 
@@ -68,8 +68,8 @@
 
 ### Loop
 
-- [ ] Loop For And Concept Of Loop
-- [ ] Loop On Sequences
+- [x] Loop For And Concept Of Loop
+- [x] Loop On Sequences
 - [ ] Loop Control - Break, Continue, Label
 - [ ] Practice - Create Products Elements
 - [ ] Practice - Filter Friends And Add To Page
