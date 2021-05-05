@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![51%](https://progress-bar.dev/51/?title=Recorded)
+![52%](https://progress-bar.dev/52/?title=Recorded)
 
 ### Introduction
 
@@ -72,9 +72,9 @@
 - [x] Loop On Sequences
 - [x] Nested Loop For
 - [x] Loop Control - Break, Continue, Label
+- [x] Loop For Advanced Examples
 - [ ] Practice - Create Products Elements
 - [ ] Practice - Filter Friends And Add To Page
-- [ ] Loop For Advanced Examples
 - [ ] Loop While And Do While
 - [ ] Loop Challenges [ 5 Challenges ]
 
