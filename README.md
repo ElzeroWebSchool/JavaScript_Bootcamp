@@ -74,6 +74,7 @@
 - [ ] Practice - Create Products Elements
 - [ ] Practice - Filter Friends And Add To Page
 - [ ] Nested Loop For
+- [ ] Nested Loop For And Label Training
 - [ ] Loop For Advanced Examples
 - [ ] Loop While And Do While
 - [ ] Loop Challenges [ 5 Challenges ]
