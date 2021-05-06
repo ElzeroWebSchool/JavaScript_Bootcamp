@@ -74,7 +74,8 @@
 - [x] Loop Control - Break, Continue, Label
 - [x] Loop For Advanced Examples
 - [x] Practice - Create Products Elements
-- [ ] Loop While And Do While
+- [x] Loop While
+- [ ] Loop Do / While
 - [ ] Loop Challenges [ 5 Challenges ]
 
 ### Functions
