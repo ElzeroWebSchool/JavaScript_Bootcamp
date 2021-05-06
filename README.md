@@ -73,8 +73,7 @@
 - [x] Nested Loop For
 - [x] Loop Control - Break, Continue, Label
 - [x] Loop For Advanced Examples
-- [ ] Practice - Create Products Elements
-- [ ] Practice - Filter Friends And Add To Page
+- [x] Practice - Create Products Elements
 - [ ] Loop While And Do While
 - [ ] Loop Challenges [ 5 Challenges ]
 
