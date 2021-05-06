@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![55%](https://progress-bar.dev/55/?title=Recorded)
+![56%](https://progress-bar.dev/56/?title=Recorded)
 
 ### Introduction
 
@@ -76,13 +76,12 @@
 - [x] Practice - Create Products Elements
 - [x] Loop While
 - [x] Loop Do / While
-- [ ] Loop Challenges [ 5 Challenges ]
+- [x] Loop Challenges
 
 ### Functions
 
 - [ ] Function Basic User Defined vs Built In
 - [ ] Function Return Statement And Use Cases
-- [ ] Function With Parameter
 - [ ] Advanced Functions Training
 - [ ] Self Invoked Function
 - [ ] Local And Global Scope
