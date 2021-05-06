@@ -80,7 +80,8 @@
 
 ### Functions
 
-- [ ] Function Basic User Defined vs Built In
+- [x] Function Intro And Basic Usage
+- [ ] Function Advanced Example And Practice
 - [ ] Function Return Statement And Use Cases
 - [ ] Advanced Functions Training
 - [ ] Self Invoked Function
