@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![52%](https://progress-bar.dev/52/?title=Recorded)
+![55%](https://progress-bar.dev/55/?title=Recorded)
 
 ### Introduction
 
@@ -75,7 +75,7 @@
 - [x] Loop For Advanced Examples
 - [x] Practice - Create Products Elements
 - [x] Loop While
-- [ ] Loop Do / While
+- [x] Loop Do / While
 - [ ] Loop Challenges [ 5 Challenges ]
 
 ### Functions
