@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![62%](https://progress-bar.dev/62/?title=Recorded)
+![63%](https://progress-bar.dev/63/?title=Recorded)
 
 ### Introduction
 
@@ -86,6 +86,7 @@
 - [x] Function Default Parameters
 - [x] Function Rest Parameters
 - [x] Function Ultimate Practice
+- [x] Challenge Function Random Arguments 
 - [ ] Self Invoked Function
 - [ ] Local And Global Scope
 - [ ] This Keyword
