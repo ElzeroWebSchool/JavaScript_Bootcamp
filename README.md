@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![57%](https://progress-bar.dev/57/?title=Recorded)
+![59%](https://progress-bar.dev/59/?title=Recorded)
 
 ### Introduction
 
@@ -82,7 +82,7 @@
 
 - [x] Function Intro And Basic Usage
 - [x] Function Advanced Example And Practice
-- [ ] Function Return Statement And Use Cases
+- [x] Function Return Statement And Use Cases
 - [ ] Function More Practice
 - [ ] Self Invoked Function
 - [ ] Local And Global Scope
