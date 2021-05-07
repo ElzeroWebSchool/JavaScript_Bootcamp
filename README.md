@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![60%](https://progress-bar.dev/60/?title=Recorded)
+![61%](https://progress-bar.dev/61/?title=Recorded)
 
 ### Introduction
 
@@ -84,8 +84,8 @@
 - [x] Function Advanced Example And Practice
 - [x] Function Return Statement And Use Cases
 - [x] Function Default Parameters
-- [ ] Function Rest Parameters
-- [ ] Function More Practice
+- [x] Function Rest Parameters
+- [ ] Function Advanced Practice
 - [ ] Self Invoked Function
 - [ ] Local And Global Scope
 - [ ] This Keyword
