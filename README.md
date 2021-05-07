@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![59%](https://progress-bar.dev/59/?title=Recorded)
+![60%](https://progress-bar.dev/60/?title=Recorded)
 
 ### Introduction
 
@@ -83,15 +83,16 @@
 - [x] Function Intro And Basic Usage
 - [x] Function Advanced Example And Practice
 - [x] Function Return Statement And Use Cases
+- [x] Function Default Parameters
+- [ ] Function Rest Parameters
 - [ ] Function More Practice
 - [ ] Self Invoked Function
 - [ ] Local And Global Scope
 - [ ] This Keyword
 - [ ] Arrow Function
-- [ ] Default Parameters
-- [ ] Rest Parameters
 - [ ] Destructuring Function Parameters
 - [ ] Higher Order Function
+- [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
 ### Advanced Concepts
