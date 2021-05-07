@@ -88,20 +88,21 @@
 - [x] Function Ultimate Practice
 - [x] Challenge Function Random Arguments 
 - [ ] Self Invoked Function
-- [ ] Local And Global Scope
-- [ ] This Keyword
-- [ ] Arrow Function
-- [ ] Destructuring Function Parameters
+- [ ] This Keyword Inside Function
+- [ ] Arrow Function And This Keyword
 - [ ] Higher Order Function
 - [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
 ### Advanced Concepts
 
+- [ ] Scope Part 1
+- [ ] Scope Part 2 
 - [ ] Spread Operator
 - [ ] Destructuring Arrays Part 1
 - [ ] Destructuring Arrays Part 2
 - [ ] Swap Variables
+- [ ] Destructuring Function Parameters
 
 ### Object
 
