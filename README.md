@@ -64,6 +64,8 @@
 - [x] Sorting Arrays
 - [x] Slicing Arrays
 - [x] Joining Arrays And Elements
+- [ ] Arrays New Methods Part 1
+- [ ] Arrays New Methods Part 2
 - [x] Arrays Challenges
 
 ### Loop
