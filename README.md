@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![63%](https://progress-bar.dev/63/?title=Recorded)
+![66%](https://progress-bar.dev/66/?title=Recorded)
 
 ### Introduction
 
@@ -80,7 +80,7 @@
 - [x] Loop Do / While
 - [x] Loop Challenges
 
-### Functions
+### Functions & Scope
 
 - [x] Function Intro And Basic Usage
 - [x] Function Advanced Example And Practice
@@ -90,8 +90,8 @@
 - [x] Function Ultimate Practice
 - [x] Challenge Function Random Arguments 
 - [x] Anonymous Function And Use Cases
-- [ ] Self Invoked Function
-- [ ] This Keyword Inside Function
+- [x] Scope Global And Local
+- [x] Scope Block
 - [ ] Arrow Function And This Keyword
 - [ ] Higher Order Function
 - [ ] Function Composition
@@ -99,8 +99,6 @@
 
 ### Advanced Concepts
 
-- [ ] Scope Part 1
-- [ ] Scope Part 2 
 - [ ] Spread Operator
 - [ ] Destructuring Arrays Part 1
 - [ ] Destructuring Arrays Part 2
