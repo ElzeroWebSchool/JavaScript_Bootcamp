@@ -89,6 +89,7 @@
 - [x] Function Rest Parameters
 - [x] Function Ultimate Practice
 - [x] Challenge Function Random Arguments 
+- [x] Anonymous Function And Use Cases
 - [ ] Self Invoked Function
 - [ ] This Keyword Inside Function
 - [ ] Arrow Function And This Keyword
