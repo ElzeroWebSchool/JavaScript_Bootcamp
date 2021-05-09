@@ -87,13 +87,14 @@
 - [x] Function Return Statement And Use Cases
 - [x] Function Default Parameters
 - [x] Function Rest Parameters
-- [x] Function Ultimate Practice
+- [x] Ultimate Function Practice
 - [x] Challenge Function Random Arguments 
 - [x] Anonymous Function And Use Cases
+- [ ] Nested Function 
+- [ ] Arrow Function
 - [x] Scope Global And Local
 - [x] Scope Block
-- [ ] Arrow Function And This Keyword
-- [ ] Higher Order Function
+- [ ] Scope Lexical
 - [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
