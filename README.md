@@ -90,7 +90,7 @@
 - [x] Ultimate Function Practice
 - [x] Challenge Function Random Arguments 
 - [x] Anonymous Function And Use Cases
-- [ ] Nested Function 
+- [x] Return Nested Function 
 - [ ] Arrow Function
 - [x] Scope Global And Local
 - [x] Scope Block
