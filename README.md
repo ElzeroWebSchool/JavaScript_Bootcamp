@@ -94,7 +94,7 @@
 - [ ] Arrow Function
 - [x] Scope Global And Local
 - [x] Scope Block
-- [ ] Scope Lexical
+- [ ] Scope Lexical (Static)
 - [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
