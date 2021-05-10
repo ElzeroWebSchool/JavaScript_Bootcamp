@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![66%](https://progress-bar.dev/66/?title=Recorded)
+![68%](https://progress-bar.dev/68/?title=Recorded)
 
 ### Introduction
 
@@ -94,7 +94,7 @@
 - [ ] Arrow Function
 - [x] Scope Global And Local
 - [x] Scope Block
-- [ ] Scope Lexical (Static)
+- [x] Scope Lexical (Static)
 - [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
