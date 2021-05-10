@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-![68%](https://progress-bar.dev/68/?title=Recorded)
+![69%](https://progress-bar.dev/69/?title=Recorded)
 
 ### Introduction
 
@@ -91,11 +91,10 @@
 - [x] Challenge Function Random Arguments 
 - [x] Anonymous Function And Use Cases
 - [x] Return Nested Function 
-- [ ] Arrow Function
+- [x] Arrow Function
 - [x] Scope Global And Local
 - [x] Scope Block
 - [x] Scope Lexical (Static)
-- [ ] Function Composition
 - [ ] Function Challenges [ 5 Challenges ]
 
 ### Advanced Concepts
