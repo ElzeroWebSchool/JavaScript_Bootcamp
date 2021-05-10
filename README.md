@@ -66,8 +66,6 @@ Recorded Videos => [ 69 From 200 ]
 - [x] Sorting Arrays
 - [x] Slicing Arrays
 - [x] Joining Arrays And Elements
-- [ ] Arrays New Methods Part 1
-- [ ] Arrays New Methods Part 2
 - [x] Arrays Challenges
 
 ### Loop
@@ -102,7 +100,6 @@ Recorded Videos => [ 69 From 200 ]
 ### Object
 
 - [ ] Objects Intro
-- [ ] Play With Window Object
 - [ ] Creating Object With Object Literals
 - [ ] Dot Notation vs Bracket Notation
 - [ ] More Methods To Create Object
@@ -156,10 +153,14 @@ Recorded Videos => [ 69 From 200 ]
 - [ ] Cookies Part 1
 - [ ] Cookies Part 2
 
+### ECMAScript New Features
+
+- [ ] New Array Methods 1
+- [ ] New Array Methods 2
+- [ ] Spread Syntax
 
 ### Advanced Concepts [Destructuring]
 
-- [ ] Spread Operator
 - [ ] Destructuring Arrays Part 1
 - [ ] Destructuring Arrays Part 2
 - [ ] Swap Variables
