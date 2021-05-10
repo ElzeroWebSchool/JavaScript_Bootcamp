@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 69 From 200 ]
+Recorded Videos => [ 70 From 200 ]
 
 ![35%](https://progress-bar.dev/35/?title=Done)
 
@@ -95,7 +95,7 @@ Recorded Videos => [ 69 From 200 ]
 - [x] Scope Global And Local
 - [x] Scope Block
 - [x] Scope Lexical (Static)
-- [ ] Function Challenges [ 5 Challenges ]
+- [x] Function Arrow Challenges
 
 ### Object
 
