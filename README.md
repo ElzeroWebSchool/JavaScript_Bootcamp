@@ -97,14 +97,6 @@
 - [x] Scope Lexical (Static)
 - [ ] Function Challenges [ 5 Challenges ]
 
-### Advanced Concepts
-
-- [ ] Spread Operator
-- [ ] Destructuring Arrays Part 1
-- [ ] Destructuring Arrays Part 2
-- [ ] Swap Variables
-- [ ] Destructuring Function Parameters
-
 ### Object
 
 - [ ] Objects Intro
@@ -123,7 +115,6 @@
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
-- [ ] Destructuring Object
 - [ ] Object Challenges [ 5 Challenges ]
 
 ### Document Object Model [DOM]
@@ -162,6 +153,16 @@
 - [ ] Window Properties Part 4
 - [ ] Cookies Part 1
 - [ ] Cookies Part 2
+
+
+### Advanced Concepts [Destructuring]
+
+- [ ] Spread Operator
+- [ ] Destructuring Arrays Part 1
+- [ ] Destructuring Arrays Part 2
+- [ ] Swap Variables
+- [ ] Destructuring Function Parameters
+- [ ] Destructuring Object
 
 ### Date
 
