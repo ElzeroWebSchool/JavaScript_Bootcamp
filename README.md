@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 70 From 200 ]
+Recorded Videos => [ 71 From 200 ]
 
 ![35%](https://progress-bar.dev/35/?title=Done)
 
@@ -99,7 +99,7 @@ Recorded Videos => [ 70 From 200 ]
 
 ### Objects
 
-- [ ] Object Intro
+- [x] Object Intro
 - [ ] Accessing Object With Dot vs Bracket Notation
 - [ ] Object With Properties And Methods
 - [ ] Nested Object and Advanced Examples
