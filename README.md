@@ -34,7 +34,7 @@ Recorded Videos => [ 70 From 200 ]
 - [x] Assignment Operators
 - [x] Operators Challenge
 
-## Dealing With Data
+## Numbers And Strings
 
 - [x] Number
 - [x] Number Methods
