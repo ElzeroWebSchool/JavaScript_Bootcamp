@@ -102,6 +102,7 @@ Recorded Videos => [ 70 From 200 ]
 - [ ] Object Intro
 - [ ] Accessing Object With Dot vs Bracket Notation
 - [ ] Object With Properties And Methods
+- [ ] Nested Object and Advanced Examples
 
 ### Document Object Model [DOM]
 
