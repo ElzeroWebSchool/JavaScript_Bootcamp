@@ -97,24 +97,11 @@ Recorded Videos => [ 70 From 200 ]
 - [x] Scope Lexical (Static)
 - [x] Function Arrow Challenges
 
-### Object
+### Objects
 
-- [ ] Objects Intro
-- [ ] Creating Object With Object Literals
-- [ ] Dot Notation vs Bracket Notation
-- [ ] More Methods To Create Object
-- [ ] Looping On Object Properties
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Object Challenges [ 5 Challenges ]
+- [ ] Object Intro
+- [ ] Accessing Object With Dot vs Bracket Notation
+- [ ] Object With Properties And Methods
 
 ### Document Object Model [DOM]
 
