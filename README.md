@@ -102,7 +102,8 @@ Recorded Videos => [ 72 From 200 ]
 - [x] Object Intro
 - [x] Accessing Object With Dot vs Bracket Notation
 - [ ] Nested Object and Advanced Examples
-- [ ] this Inside Object
+- [ ] This Inside Object
+- [ ] Create Object With New Keyword
 
 ### Document Object Model [DOM]
 
