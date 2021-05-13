@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 73 From 200 ]
+Recorded Videos => [ 74 From 200 ]
 
-![36%](https://progress-bar.dev/36/?title=Done)
+![37%](https://progress-bar.dev/37/?title=Done)
 
 ### Introduction
 
@@ -102,7 +102,7 @@ Recorded Videos => [ 73 From 200 ]
 - [x] Object Intro
 - [x] Accessing Object With Dot vs Bracket Notation
 - [x] Nested Object and Advanced Examples
-- [ ] Create Object With New Keyword
+- [x] Create Object With New Keyword
 - [ ] This Inside Object
 
 ### Document Object Model [DOM]
