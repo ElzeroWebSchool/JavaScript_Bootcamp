@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 76 From 200 ]
+Recorded Videos => [ 77 From 200 ]
 
 ![38%](https://progress-bar.dev/38/?title=Done)
 
@@ -109,6 +109,7 @@ Recorded Videos => [ 76 From 200 ]
 
 - [x] What Is DOM ? And Select Elements
 - [x] Get / Set Elements Content And Attributes
+- [x] Check Attributes And Examples
 - [ ] Document Methods Part 1
 - [ ] Document Methods Part 2
 - [ ] Class List
