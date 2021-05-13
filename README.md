@@ -107,7 +107,7 @@ Recorded Videos => [ 74 From 200 ]
 
 ### Document Object Model [DOM]
 
-- [ ] What Is DOM ?
+- [ ] What Is DOM ? And Select DOM Elements
 - [ ] Manipulating The DOM
 - [ ] Document Methods Part 1
 - [ ] Document Methods Part 2
