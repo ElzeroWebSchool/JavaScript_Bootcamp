@@ -75,7 +75,7 @@ Recorded Videos => [ 79 From 200 ]
 - [x] Nested Loop For
 - [x] Loop Control - Break, Continue, Label
 - [x] Loop For Advanced Examples
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) `Practice` - Create Products Elements
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Create Products Elements
 - [x] Loop While
 - [x] Loop Do / While
 - [x] Loop Challenges
@@ -83,11 +83,11 @@ Recorded Videos => [ 79 From 200 ]
 ### Functions & Scope
 
 - [x] Function Intro And Basic Usage
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) `Practice` -  Function Advanced Example
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  Function Advanced Example
 - [x] Function Return Statement And Use Cases
 - [x] Function Default Parameters
 - [x] Function Rest Parameters
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) `Practice` - Ultimate Function
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Ultimate Function
 - [x] Challenge Function Random Arguments 
 - [x] Anonymous Function And Use Cases
 - [x] Return Nested Function 
@@ -111,7 +111,7 @@ Recorded Videos => [ 79 From 200 ]
 - [x] Get / Set Elements Content And Attributes
 - [x] Check Attributes And Examples
 - [x] Create And Append Elements
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) `Practice` - Product With Heading And Paragraph
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Product With Heading And Paragraph
 - [ ] Document Methods Part 1
 - [ ] Document Methods Part 2
 - [ ] Class List
