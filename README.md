@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 74 From 200 ]
+Recorded Videos => [ 76 From 200 ]
 
-![37%](https://progress-bar.dev/37/?title=Done)
+![38%](https://progress-bar.dev/38/?title=Done)
 
 ### Introduction
 
@@ -108,10 +108,9 @@ Recorded Videos => [ 74 From 200 ]
 ### Document Object Model [DOM]
 
 - [x] What Is DOM ? And Select Elements
-- [ ] Manipulating The DOM
+- [x] Get / Set Elements Content And Attributes
 - [ ] Document Methods Part 1
 - [ ] Document Methods Part 2
-- [ ] Get / Set Content And Attributes
 - [ ] Class List
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
