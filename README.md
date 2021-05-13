@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 79 From 200 ]
+Recorded Videos => [ 80 From 200 ]
 
-![39%](https://progress-bar.dev/39/?title=Done)
+![40%](https://progress-bar.dev/40/?title=Done)
 
 ### Introduction
 
@@ -112,9 +112,8 @@ Recorded Videos => [ 79 From 200 ]
 - [x] Check Attributes And Examples
 - [x] Create And Append Elements
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Product With Heading And Paragraph
-- [ ] Document Methods Part 1
-- [ ] Document Methods Part 2
-- [ ] Class List
+- [x] Deal With Childrens
+- [ ] Deal With Class List
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
 - [ ] Cloning
@@ -122,12 +121,8 @@ Recorded Videos => [ 79 From 200 ]
 - [ ] Deal With Styles And Attributes
 - [ ] Events Part 1
 - [ ] Events Part 2
-- [ ] Events Part 3
 - [ ] DOM Informations Part 1
 - [ ] DOM Informations Part 2
-- [ ] Create Element And Text Part 1
-- [ ] Create Element And Text Part 2
-- [ ] Create Element And Text Part 3
 - [ ] DOM Challenges [ 3 Challenges ]
 
 ### Browser Object Model [BOM]
