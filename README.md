@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 77 From 200 ]
+Recorded Videos => [ 79 From 200 ]
 
-![38%](https://progress-bar.dev/38/?title=Done)
+![39%](https://progress-bar.dev/39/?title=Done)
 
 ### Introduction
 
@@ -110,6 +110,8 @@ Recorded Videos => [ 77 From 200 ]
 - [x] What Is DOM ? And Select Elements
 - [x] Get / Set Elements Content And Attributes
 - [x] Check Attributes And Examples
+- [x] Create And Append Elements
+- [x] *Practice* Product With Heading And Paragraph
 - [ ] Document Methods Part 1
 - [ ] Document Methods Part 2
 - [ ] Class List
