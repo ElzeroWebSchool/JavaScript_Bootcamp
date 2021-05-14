@@ -125,6 +125,7 @@ Recorded Videos => [ 88 From 200 ]
 
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Random Background Changer
 - [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Simple Counter
+- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Calculate Textarea Characters
 
 ### Browser Object Model [BOM]
 
