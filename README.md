@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 80 From 200 ]
+Recorded Videos => [ 81 From 200 ]
 
 ![40%](https://progress-bar.dev/40/?title=Done)
 
@@ -113,14 +113,13 @@ Recorded Videos => [ 80 From 200 ]
 - [x] Create And Append Elements
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Product With Heading And Paragraph
 - [x] Deal With Childrens
+- [x] Dom Events Object
 - [ ] Deal With Class List
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
 - [ ] Cloning
 - [ ] Traversing The DOM
 - [ ] Deal With Styles And Attributes
-- [ ] Events Part 1
-- [ ] Events Part 2
 - [ ] DOM Informations Part 1
 - [ ] DOM Informations Part 2
 - [ ] DOM Challenges [ 3 Challenges ]
