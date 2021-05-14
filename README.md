@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 84 From 200 ]
+Recorded Videos => [ 85 From 200 ]
 
 ![42%](https://progress-bar.dev/42/?title=Done)
 
@@ -117,6 +117,7 @@ Recorded Videos => [ 84 From 200 ]
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Validate Form And Prevent Default
 - [x] Events Simulation - Click, Focus, Blur
 - [x] ClassList Object And Methods
+- [x] CSS Styling And Stylesheets 
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
 - [ ] Cloning
