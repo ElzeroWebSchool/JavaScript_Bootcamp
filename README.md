@@ -119,12 +119,7 @@ Recorded Videos => [ 86 From 200 ]
 - [x] ClassList Object And Methods
 - [x] CSS Styling And Stylesheets 
 - [x] Before, After, Prepend, Append, Remove
-- [ ] Cloning
 - [ ] Traversing The DOM
-- [ ] Deal With Styles And Attributes
-- [ ] DOM Informations Part 1
-- [ ] DOM Informations Part 2
-- [ ] DOM Challenges [ 3 Challenges ]
 
 ### Browser Object Model [BOM]
 
