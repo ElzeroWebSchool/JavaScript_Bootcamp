@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 87 From 200 ]
+Recorded Videos => [ 88 From 200 ]
 
-![43%](https://progress-bar.dev/43/?title=Done)
+![44%](https://progress-bar.dev/44/?title=Done)
 
 ### Introduction
 
@@ -123,7 +123,7 @@ Recorded Videos => [ 87 From 200 ]
 
 ### Practical Apps
 
-- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Random Background Changer
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Random Background Changer
 - [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Simple Counter
 
 ### Browser Object Model [BOM]
