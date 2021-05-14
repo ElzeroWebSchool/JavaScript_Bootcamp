@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 85 From 200 ]
+Recorded Videos => [ 86 From 200 ]
 
-![42%](https://progress-bar.dev/42/?title=Done)
+![43%](https://progress-bar.dev/43/?title=Done)
 
 ### Introduction
 
@@ -118,8 +118,7 @@ Recorded Videos => [ 85 From 200 ]
 - [x] Events Simulation - Click, Focus, Blur
 - [x] ClassList Object And Methods
 - [x] CSS Styling And Stylesheets 
-- [ ] Dealing With Child Nodes
-- [ ] Insert And Remove Elements
+- [x] Before, After, Prepend, Append, Remove
 - [ ] Cloning
 - [ ] Traversing The DOM
 - [ ] Deal With Styles And Attributes
