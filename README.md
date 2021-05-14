@@ -121,6 +121,11 @@ Recorded Videos => [ 87 From 200 ]
 - [x] Before, After, Prepend, Append, Remove
 - [x] DOM Traversing 
 
+### Practical Apps
+
+- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Random Background Changer
+- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Simple Counter
+
 ### Browser Object Model [BOM]
 
 - [ ] What Is BOM ?
