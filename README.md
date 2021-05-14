@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 83 From 200 ]
+Recorded Videos => [ 84 From 200 ]
 
-![41%](https://progress-bar.dev/41/?title=Done)
+![42%](https://progress-bar.dev/42/?title=Done)
 
 ### Introduction
 
@@ -116,7 +116,7 @@ Recorded Videos => [ 83 From 200 ]
 - [x] Dom Events Object
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Validate Form And Prevent Default
 - [x] Events Simulation - Click, Focus, Blur
-- [ ] Deal With Class List
+- [x] ClassList Object And Methods
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
 - [ ] Cloning
