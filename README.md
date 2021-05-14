@@ -115,6 +115,7 @@ Recorded Videos => [ 82 From 200 ]
 - [x] Deal With Childrens
 - [x] Dom Events Object
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Validate Form And Prevent Default
+- [ ] Events Simulation - Click, Focus, Blur
 - [ ] Deal With Class List
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
