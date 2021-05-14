@@ -114,6 +114,7 @@ Recorded Videos => [ 81 From 200 ]
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Product With Heading And Paragraph
 - [x] Deal With Childrens
 - [x] Dom Events Object
+- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Validate Form And Prevent Default
 - [ ] Deal With Class List
 - [ ] Dealing With Child Nodes
 - [ ] Insert And Remove Elements
