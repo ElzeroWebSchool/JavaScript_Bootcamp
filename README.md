@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 86 From 200 ]
+Recorded Videos => [ 87 From 200 ]
 
 ![43%](https://progress-bar.dev/43/?title=Done)
 
@@ -119,7 +119,7 @@ Recorded Videos => [ 86 From 200 ]
 - [x] ClassList Object And Methods
 - [x] CSS Styling And Stylesheets 
 - [x] Before, After, Prepend, Append, Remove
-- [ ] Traversing The DOM
+- [x] DOM Traversing 
 
 ### Browser Object Model [BOM]
 
