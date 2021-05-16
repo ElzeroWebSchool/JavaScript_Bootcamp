@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 88 From 200 ]
+Recorded Videos => [ 90 From 200 ]
 
-![44%](https://progress-bar.dev/44/?title=Done)
+![45%](https://progress-bar.dev/45/?title=Done)
 
 ### Introduction
 
@@ -104,7 +104,8 @@ Recorded Videos => [ 88 From 200 ]
 - [x] Nested Object and Advanced Examples
 - [x] Create Object With New Keyword
 - [x] This Keyword
-- [ ] Create Object With Create Method
+- [x] Create Object With Create Method
+- [ ] Create Object With Assign Method
 
 ### Document Object Model [DOM]
 
