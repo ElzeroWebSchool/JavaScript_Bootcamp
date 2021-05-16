@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 92 From 200 ]
+Recorded Videos => [ 93 From 200 ]
 
 ![46%](https://progress-bar.dev/46/?title=Done)
 
@@ -123,6 +123,7 @@ Recorded Videos => [ 92 From 200 ]
 - [x] Before, After, Prepend, Append, Remove
 - [x] DOM Traversing 
 - [x] DOM Cloning
+- [x] Add Event Listener And Event Target
 
 ### Practical Apps
 
