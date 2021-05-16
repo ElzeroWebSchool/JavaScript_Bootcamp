@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 91 From 200 ]
+Recorded Videos => [ 92 From 200 ]
 
-![45%](https://progress-bar.dev/45/?title=Done)
+![46%](https://progress-bar.dev/46/?title=Done)
 
 ### Introduction
 
@@ -122,6 +122,7 @@ Recorded Videos => [ 91 From 200 ]
 - [x] CSS Styling And Stylesheets 
 - [x] Before, After, Prepend, Append, Remove
 - [x] DOM Traversing 
+- [x] DOM Cloning
 
 ### Practical Apps
 
