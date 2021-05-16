@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 90 From 200 ]
+Recorded Videos => [ 91 From 200 ]
 
 ![45%](https://progress-bar.dev/45/?title=Done)
 
@@ -105,7 +105,7 @@ Recorded Videos => [ 90 From 200 ]
 - [x] Create Object With New Keyword
 - [x] This Keyword
 - [x] Create Object With Create Method
-- [ ] Create Object With Assign Method
+- [x] Create Object With Assign Method
 
 ### Document Object Model [DOM]
 
