@@ -103,9 +103,7 @@ Recorded Videos => [ 88 From 200 ]
 - [x] Accessing Object With Dot vs Bracket Notation
 - [x] Nested Object and Advanced Examples
 - [x] Create Object With New Keyword
-- [ ] This Keyword Inside Object
-- [ ] This Keyword Inside Function
-- [ ] This Keyword Inside Arrow Function
+- [ ] This Keyword Inside Object Method And Function
 
 ### Document Object Model [DOM]
 
