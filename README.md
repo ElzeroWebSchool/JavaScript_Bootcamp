@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 94 From 200 ]
+Recorded Videos => [ 95 From 200 ]
 
 ![47%](https://progress-bar.dev/47/?title=Done)
 
@@ -134,7 +134,7 @@ Recorded Videos => [ 94 From 200 ]
 ### Browser Object Model [BOM]
 
 - [x] What Is BOM ?
-- [ ] Alert, Confirm, Prompt
+- [x] Alert, Confirm, Prompt
 - [ ] -
 - [ ] -
 - [ ] Window Methods Part 1
