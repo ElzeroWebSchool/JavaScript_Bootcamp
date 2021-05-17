@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 95 From 200 ]
+Recorded Videos => [ 97 From 200 ]
 
-![47%](https://progress-bar.dev/47/?title=Done)
+![48%](https://progress-bar.dev/48/?title=Done)
 
 ### Introduction
 
@@ -135,8 +135,8 @@ Recorded Videos => [ 95 From 200 ]
 
 - [x] What Is BOM ?
 - [x] Alert, Confirm, Prompt
-- [ ] setTimeout and clearTimeout
-- [ ] setInterval and clearInterval
+- [x] setTimeout and clearTimeout
+- [x] setInterval and clearInterval
 - [ ] -
 - [ ] -
 - [ ] -
