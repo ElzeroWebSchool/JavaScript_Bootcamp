@@ -135,6 +135,9 @@ Recorded Videos => [ 95 From 200 ]
 
 - [x] What Is BOM ?
 - [x] Alert, Confirm, Prompt
+- [ ] setTimeout and clearTimeout
+- [ ] setInterval and clearInterval
+- [ ] -
 - [ ] -
 - [ ] -
 - [ ] Window Methods Part 1
