@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 93 From 200 ]
+Recorded Videos => [ 94 From 200 ]
 
-![46%](https://progress-bar.dev/46/?title=Done)
+![47%](https://progress-bar.dev/47/?title=Done)
 
 ### Introduction
 
@@ -133,7 +133,7 @@ Recorded Videos => [ 93 From 200 ]
 
 ### Browser Object Model [BOM]
 
-- [ ] What Is BOM ?
+- [x] What Is BOM ?
 - [ ] Alert, Confirm, Prompt
 - [ ] -
 - [ ] -
