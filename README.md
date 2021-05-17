@@ -134,6 +134,9 @@ Recorded Videos => [ 93 From 200 ]
 ### Browser Object Model [BOM]
 
 - [ ] What Is BOM ?
+- [ ] Alert, Confirm, Prompt
+- [ ] -
+- [ ] -
 - [ ] Window Methods Part 1
 - [ ] Window Methods Part 2
 - [ ] Window Methods Part 3
