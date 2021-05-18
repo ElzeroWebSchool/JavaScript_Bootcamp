@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 97 From 200 ]
+Recorded Videos => [ 98 From 200 ]
 
-![48%](https://progress-bar.dev/48/?title=Done)
+![49%](https://progress-bar.dev/49/?title=Done)
 
 ### Introduction
 
@@ -135,19 +135,15 @@ Recorded Videos => [ 97 From 200 ]
 
 - [x] What Is BOM ?
 - [x] Alert, Confirm, Prompt
-- [x] setTimeout and clearTimeout
-- [x] setInterval and clearInterval
+- [x] setTimeout and clearTimeout Methods
+- [x] setInterval and clearInterval Methods
+- [x] Window Location Object
+- [ ] Window Open And Close
 - [ ] -
 - [ ] -
 - [ ] -
-- [ ] Window Methods Part 1
-- [ ] Window Methods Part 2
-- [ ] Window Methods Part 3
-- [ ] Window Methods Part 4
-- [ ] Window Properties Part 1
-- [ ] Window Properties Part 2
-- [ ] Window Properties Part 3
-- [ ] Window Properties Part 4
+- [ ] -
+- [ ] -
 - [ ] Cookies Part 1
 - [ ] Cookies Part 2
 
