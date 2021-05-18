@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 99 From 200 ]
+Recorded Videos => [ 100 From 200 ]
 
-![49%](https://progress-bar.dev/49/?title=Done)
+![50%](https://progress-bar.dev/50/?title=Done)
 
 ### Introduction
 
@@ -139,7 +139,7 @@ Recorded Videos => [ 99 From 200 ]
 - [x] setInterval and clearInterval Methods
 - [x] Window Location Object
 - [x] Window Open And Close
-- [ ] -
+- [x] Window History Object
 - [ ] -
 - [ ] -
 - [ ] -
