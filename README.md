@@ -140,12 +140,14 @@ Recorded Videos => [ 100 From 200 ]
 - [x] Window Location Object
 - [x] Window Open And Close
 - [x] Window History Object
-- [ ] -
+- [ ] Stop, Focus, Print, ScrollTo
 - [ ] -
 - [ ] -
 - [ ] -
 - [ ] Cookies Part 1
 - [ ] Cookies Part 2
+- [ ] Local Storage 1
+- [ ] Local Storage 2
 
 ### ECMAScript New Features
 
