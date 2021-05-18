@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 98 From 200 ]
+Recorded Videos => [ 99 From 200 ]
 
 ![49%](https://progress-bar.dev/49/?title=Done)
 
@@ -138,7 +138,7 @@ Recorded Videos => [ 98 From 200 ]
 - [x] setTimeout and clearTimeout Methods
 - [x] setInterval and clearInterval Methods
 - [x] Window Location Object
-- [ ] Window Open And Close
+- [x] Window Open And Close
 - [ ] -
 - [ ] -
 - [ ] -
