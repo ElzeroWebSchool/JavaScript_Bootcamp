@@ -144,7 +144,7 @@ Recorded Videos => [ 102 From 200 ]
 - [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Scroll To Top Using ScrollY
 - [ ] -
 - [ ] -
-- [ ] Cookies Part 1
+- [ ] Navigator Object And Cookies Part 1
 - [ ] Cookies Part 2
 - [ ] Local Storage 1
 - [ ] Local Storage 2
@@ -165,7 +165,7 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Date
 
-### Data And Storage
+### Object Oriented Programming
 
 ### Generators And Modules
 
