@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 101 From 200 ]
+Recorded Videos => [ 102 From 200 ]
 
-![50%](https://progress-bar.dev/50/?title=Done)
+![51%](https://progress-bar.dev/51/?title=Done)
 
 ### Introduction
 
@@ -141,7 +141,7 @@ Recorded Videos => [ 101 From 200 ]
 - [x] Window Open And Close
 - [x] Window History Object
 - [x] Stop, Focus, Print, Scroll, ScrollTo, ScrollBy
-- [ ] -
+- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Scroll To Top Using ScrollY
 - [ ] -
 - [ ] -
 - [ ] Cookies Part 1
