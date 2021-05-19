@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 100 From 200 ]
+Recorded Videos => [ 101 From 200 ]
 
 ![50%](https://progress-bar.dev/50/?title=Done)
 
@@ -140,7 +140,7 @@ Recorded Videos => [ 100 From 200 ]
 - [x] Window Location Object
 - [x] Window Open And Close
 - [x] Window History Object
-- [ ] Stop, Focus, Print, ScrollTo
+- [x] Stop, Focus, Print, Scroll, ScrollTo, ScrollBy
 - [ ] -
 - [ ] -
 - [ ] -
