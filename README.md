@@ -8,15 +8,15 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Introduction
 
-- [x] Introduction And What Is JavaScript ?
-- [x] How To Study The Course ?
-- [x] Setting Up Environment And Tools
-- [x] Work With Chrome Developer Tools
-- [x] Where To Put The Code ?
-- [x] JavaScript Comments And Bad Practices
-- [x] Output To Screen
-- [x] Console Methods And Styling And WebAPI
-- [x] What Is ECMAScript ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Introduction And What Is JavaScript ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - How To Study The Course ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Setting Up Environment And Tools
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Work With Chrome Developer Tools
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Where To Put The Code ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Comments And Bad Practices
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Output To Screen
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Console Methods And Styling And WebAPI
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - What Is ECMAScript ?
 
 ### Data Types And Variables
 
