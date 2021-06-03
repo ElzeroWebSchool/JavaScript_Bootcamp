@@ -20,14 +20,14 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Data Types And Variables
 
-- [x] Data Types And Typeof Operator
-- [x] Variable Introduction
-- [x] Identifiers Name Convention And Rules
-- [x] Var, Let, Const Compare
-- [x] String Syntax + Character Escape Sequences
-- [x] Concatenations
-- [x] Template Literals (Template Strings)
-- [x] Variable And Concatenation Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Data Types And Typeof Operator
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Variable Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Identifiers Name Convention And Rules
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Var, Let, Const Compare
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Syntax + Character Escape Sequences
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Concatenations
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Template Literals (Template Strings)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Variable And Concatenation Challenge
 - [x] Arithmetic Operators
 - [x] Unary Operators
 - [x] Type Coercion
