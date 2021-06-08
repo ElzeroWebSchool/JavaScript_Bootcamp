@@ -28,11 +28,11 @@ Recorded Videos => [ 102 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Concatenations
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Template Literals (Template Strings)
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Variable And Concatenation Challenge
-- [x] Arithmetic Operators
-- [x] Unary Operators
-- [x] Type Coercion
-- [x] Assignment Operators
-- [x] Operators Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arithmetic Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Unary Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Type Coercion
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Assignment Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Operators Challenge
 
 ## Numbers And Strings
 
