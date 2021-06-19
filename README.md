@@ -36,14 +36,14 @@ Recorded Videos => [ 102 From 200 ]
 
 ## Numbers And Strings
 
-- [x] Number
-- [x] Number Methods
-- [x] Math Object
-- [x] Number Challenge
-- [x] String Methods Part 1
-- [x] String Methods Part 2
-- [x] String Methods Part 3
-- [x] Strings Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Math Object
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 3
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Strings Challenge
 
 ### Control Flow
 
