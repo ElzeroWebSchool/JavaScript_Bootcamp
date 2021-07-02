@@ -47,15 +47,15 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Control Flow
 
-- [x] Comparison Operators
-- [x] Logical Operators
-- [x] If Conditions
-- [x] Nested If
-- [x] Conditional (Ternary) Operator
-- [x] Nullish Coalescing Operator And Logical Or
-- [x] If Challenge
-- [x] Switch Statement
-- [x] Switch And If Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Comparison Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Logical Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - If Conditions
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nested If
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Conditional (Ternary) Operator
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nullish Coalescing Operator And Logical Or
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - If Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Switch Statement
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Switch And If Challenges
 
 ### Arrays
 
