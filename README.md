@@ -59,14 +59,14 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Arrays
 
-- [x] Array Big Intro
-- [x] Using Length With Array
-- [x] Adding And Removing From Arrays
-- [x] Searching Arrays
-- [x] Sorting Arrays
-- [x] Slicing Arrays
-- [x] Joining Arrays And Elements
-- [x] Arrays Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Big Intro
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Using Length With Array
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Adding And Removing From Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Searching Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Sorting Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Slicing Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Joining Arrays And Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arrays Challenges
 
 ### Loop
 
