@@ -70,15 +70,15 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Loop
 
-- [x] Loop For And Concept Of Loop
-- [x] Loop On Sequences
-- [x] Nested Loop For
-- [x] Loop Control - Break, Continue, Label
-- [x] Loop For Advanced Examples
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Create Products Elements
-- [x] Loop While
-- [x] Loop Do / While
-- [x] Loop Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop For And Concept Of Loop
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop On Sequences
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nested Loop For
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Control - Break, Continue, Label
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop For Advanced Examples
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Create Products Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop While
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Do / While
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Challenges
 
 ### Functions & Scope
 
