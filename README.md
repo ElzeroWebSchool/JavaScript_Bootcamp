@@ -82,13 +82,13 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Functions & Scope
 
-- [x] Function Intro And Basic Usage
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  Function Advanced Example
-- [x] Function Return Statement And Use Cases
-- [x] Function Default Parameters
-- [x] Function Rest Parameters
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Ultimate Function
-- [x] Challenge Function Random Arguments 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Intro And Basic Usage
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  Function Advanced Example
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Return Statement And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Default Parameters
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Rest Parameters
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Ultimate Function
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Random Arguments Function Challenge
 - [x] Anonymous Function And Use Cases
 - [x] Return Nested Function 
 - [x] Arrow Function
