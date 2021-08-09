@@ -97,6 +97,21 @@ Recorded Videos => [ 102 From 200 ]
 - [x] Scope Lexical (Static)
 - [x] Function Arrow Challenges
 
+### Higher Order Functions And Practice
+
+- [ ] Array Map
+- [ ] Array Map Practice One
+- [ ] Array Map Practice Two
+- [ ] Array Filter
+- [ ] Array Filter Practice One
+- [ ] Array Filter Practice Two
+- [ ] Array Reduce
+- [ ] Array Reduce Practice One
+- [ ] Array Reduce Practice Two
+- [ ] Array ForEach 
+- [ ] Array ForEach Practice One
+- [ ] Array ForEach Practice Two
+
 ### Objects
 
 - [x] Object Intro
