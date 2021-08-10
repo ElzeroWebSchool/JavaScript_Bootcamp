@@ -89,13 +89,13 @@ Recorded Videos => [ 102 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Rest Parameters
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Ultimate Function
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Random Arguments Function Challenge
-- [x] Anonymous Function And Use Cases
-- [x] Return Nested Function 
-- [x] Arrow Function
-- [x] Scope Global And Local
-- [x] Scope Block
-- [x] Scope Lexical (Static)
-- [x] Function Arrow Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Anonymous Function And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Return Nested Function 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arrow Function
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Global And Local
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Block
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Lexical (Static)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Arrow Challenges
 
 ### Higher Order Functions And Practice
 
