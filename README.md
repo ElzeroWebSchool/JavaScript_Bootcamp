@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 106 From 200 ]
+Recorded Videos => [ 108 From 200 ]
 
-![53%](https://progress-bar.dev/53/?title=Done)
+![54%](https://progress-bar.dev/54/?title=Done)
 
 ### Introduction
 
@@ -103,12 +103,10 @@ Recorded Videos => [ 106 From 200 ]
 - [x] Array Map Practice
 - [x] Array Filter
 - [x] Array Filter Practice
-- [ ] Array Reduce
-- [ ] Array Reduce Practice One
-- [ ] Array Reduce Practice Two
+- [x] Array Reduce
+- [x] Array Reduce Practice
 - [ ] Array ForEach 
-- [ ] Array ForEach Practice One
-- [ ] Array ForEach Practice Two
+- [ ] Array ForEach Practice
 
 ### Objects
 
