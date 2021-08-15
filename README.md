@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 102 From 200 ]
+Recorded Videos => [ 104 From 200 ]
 
-![51%](https://progress-bar.dev/51/?title=Done)
+![52%](https://progress-bar.dev/51/?title=Done)
 
 ### Introduction
 
@@ -99,12 +99,10 @@ Recorded Videos => [ 102 From 200 ]
 
 ### Higher Order Functions And Practice
 
-- [ ] Array Map
-- [ ] Array Map Practice One
-- [ ] Array Map Practice Two
+- [x] Array Map
+- [x] Array Map Practice One
 - [ ] Array Filter
 - [ ] Array Filter Practice One
-- [ ] Array Filter Practice Two
 - [ ] Array Reduce
 - [ ] Array Reduce Practice One
 - [ ] Array Reduce Practice Two
