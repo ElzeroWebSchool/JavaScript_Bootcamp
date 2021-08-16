@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 108 From 200 ]
+Recorded Videos => [ 109 From 200 ]
 
 ![54%](https://progress-bar.dev/54/?title=Done)
 
@@ -105,9 +105,7 @@ Recorded Videos => [ 108 From 200 ]
 - [x] Array Filter Practice
 - [x] Array Reduce
 - [x] Array Reduce Practice
-- [ ] Array ForEach 
-- [ ] Array ForEach Practice
-- [ ] Combine All Functions And Use Arrow Function
+- [x] Array ForEach And Practice
 - [ ] Higher Order Functions Challenge
 
 ### Objects
