@@ -107,6 +107,8 @@ Recorded Videos => [ 108 From 200 ]
 - [x] Array Reduce Practice
 - [ ] Array ForEach 
 - [ ] Array ForEach Practice
+- [ ] Combine All Functions And Use Arrow Function
+- [ ] Higher Order Functions Challenge
 
 ### Objects
 
