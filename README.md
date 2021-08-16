@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 109 From 200 ]
+Recorded Videos => [ 110 From 200 ]
 
-![54%](https://progress-bar.dev/54/?title=Done)
+![55%](https://progress-bar.dev/55/?title=Done)
 
 ### Introduction
 
@@ -106,7 +106,7 @@ Recorded Videos => [ 109 From 200 ]
 - [x] Array Reduce
 - [x] Array Reduce Practice
 - [x] Array ForEach And Practice
-- [ ] Higher Order Functions Challenge
+- [x] Higher Order Functions Challenge
 
 ### Objects
 
