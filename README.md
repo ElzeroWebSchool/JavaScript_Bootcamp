@@ -99,14 +99,14 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Higher Order Functions And Practice
 
-- [x] Array Map
-- [x] Array Map Practice
-- [x] Array Filter
-- [x] Array Filter Practice
-- [x] Array Reduce
-- [x] Array Reduce Practice
-- [x] Array ForEach And Practice
-- [x] Higher Order Functions Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Map
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Map Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Filter
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Filter Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Reduce
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Reduce Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array ForEach And Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Higher Order Functions Challenge
 
 ### Objects
 
