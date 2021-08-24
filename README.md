@@ -8,115 +8,115 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Introduction
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Introduction And What Is JavaScript ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - How To Study The Course ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Setting Up Environment And Tools
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Work With Chrome Developer Tools
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Where To Put The Code ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Comments And Bad Practices
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Output To Screen
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Console Methods And Styling And WebAPI
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - What Is ECMAScript ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 001 - Introduction And What Is JavaScript ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 002 - How To Study The Course ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 003 - Setting Up Environment And Tools
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 004 - Work With Chrome Developer Tools
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 005 - Where To Put The Code ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 006 - Comments And Bad Practices
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 007 - Output To Screen
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 008 - Console Methods And Styling And WebAPI
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 009 - What Is ECMAScript ?
 
 ### Data Types And Variables
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Data Types And Typeof Operator
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Variable Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Identifiers Name Convention And Rules
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Var, Let, Const Compare
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Syntax + Character Escape Sequences
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Concatenations
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Template Literals (Template Strings)
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Variable And Concatenation Challenge
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arithmetic Operators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Unary Operators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Type Coercion
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Assignment Operators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Operators Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 010 - Data Types And Typeof Operator
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 011 - Variable Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 012 - Identifiers Name Convention And Rules
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 013 - Var, Let, Const Compare
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 014 - String Syntax + Character Escape Sequences
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 015 - Concatenations
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 016 - Template Literals (Template Strings)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 017 - Variable And Concatenation Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 018 - Arithmetic Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 019 - Unary Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 020 - Type Coercion
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 021 - Assignment Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 022 - Operators Challenge
 
 ## Numbers And Strings
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number Methods
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Math Object
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Number Challenge
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 1
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 2
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - String Methods Part 3
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Strings Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 023 - Number
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 024 - Number Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 025 - Math Object
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 026 - Number Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 027 - String Methods Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 028 - String Methods Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 029 - String Methods Part 3
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 030 - Strings Challenge
 
 ### Control Flow
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Comparison Operators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Logical Operators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - If Conditions
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nested If
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Conditional (Ternary) Operator
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nullish Coalescing Operator And Logical Or
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - If Challenge
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Switch Statement
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Switch And If Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 031 - Comparison Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 032 - Logical Operators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 033 - If Conditions
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 034 - Nested If
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 035 - Conditional (Ternary) Operator
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 036 - Nullish Coalescing Operator And Logical Or
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 037 - If Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 038 - Switch Statement
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 039 - Switch And If Challenges
 
 ### Arrays
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Big Intro
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Using Length With Array
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Adding And Removing From Arrays
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Searching Arrays
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Sorting Arrays
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Slicing Arrays
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Joining Arrays And Elements
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arrays Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 040 - Array Big Intro
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 041 - Using Length With Array
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 042 - Adding And Removing From Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 043 - Searching Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 044 - Sorting Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 045 - Slicing Arrays
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 046 - Joining Arrays And Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 047 - Arrays Challenges
 
 ### Loop
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop For And Concept Of Loop
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop On Sequences
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Nested Loop For
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Control - Break, Continue, Label
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop For Advanced Examples
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Create Products Elements
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop While
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Do / While
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Loop Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 048 - Loop For And Concept Of Loop
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 049 - Loop On Sequences
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 050 - Nested Loop For
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 051 - Loop Control - Break, Continue, Label
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 052 - Loop For Advanced Examples
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - 053 - Create Products Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 054 - Loop While
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 055 - Loop Do / While
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 056 - Loop Challenges
 
 ### Functions & Scope
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Intro And Basic Usage
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  Function Advanced Example
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Return Statement And Use Cases
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Default Parameters
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Rest Parameters
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Ultimate Function
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Random Arguments Function Challenge
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Anonymous Function And Use Cases
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Return Nested Function 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Arrow Function
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Global And Local
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Block
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Scope Lexical (Static)
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Function Arrow Challenges
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 057 - Function Intro And Basic Usage
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  058 - Function Advanced Example
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 059 - Function Return Statement And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 060 - Function Default Parameters
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 061 - Function Rest Parameters
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - 062 - Ultimate Function
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 063 - Random Arguments Function Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 064 - Anonymous Function And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 065 - Return Nested Function 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 066 - Arrow Function
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 067 - Scope Global And Local
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 068 - Scope Block
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 069 - Scope Lexical (Static)
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 070 - Function Arrow Challenges
 
 ### Higher Order Functions And Practice
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Map
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Map Practice
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Filter
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Filter Practice
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Reduce
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array Reduce Practice
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Array ForEach And Practice
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - Higher Order Functions Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 071 - Array Map
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 072 - Array Map Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 073 - Array Filter
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 074 - Array Filter Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 075 - Array Reduce
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 076 - Array Reduce Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 077 - Array ForEach And Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 078 - Higher Order Functions Challenge
 
 ### Objects
 
-- [x] Object Intro
-- [x] Accessing Object With Dot vs Bracket Notation
-- [x] Nested Object and Advanced Examples
-- [x] Create Object With New Keyword
-- [x] This Keyword
-- [x] Create Object With Create Method
-- [x] Create Object With Assign Method
+- [x] 079 - Object Intro
+- [x] 080 - Accessing Object With Dot vs Bracket Notation
+- [x] 081 - Nested Object and Advanced Examples
+- [x] 082 - Create Object With New Keyword
+- [x] 083 - This Keyword
+- [x] 084 - Create Object With Create Method
+- [x] 085 - Create Object With Assign Method
 
 ### Document Object Model [DOM]
 
