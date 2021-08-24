@@ -75,7 +75,7 @@ Recorded Videos => [ 110 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 050 - Nested Loop For
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 051 - Loop Control - Break, Continue, Label
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 052 - Loop For Advanced Examples
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - 053 - Create Products Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 053 - Create Products Elements
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 054 - Loop While
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 055 - Loop Do / While
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 056 - Loop Challenges
@@ -83,11 +83,11 @@ Recorded Videos => [ 110 From 200 ]
 ### Functions & Scope
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 057 - Function Intro And Basic Usage
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice -  058 - Function Advanced Example
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 058 - Function Advanced Example
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 059 - Function Return Statement And Use Cases
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 060 - Function Default Parameters
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 061 - Function Rest Parameters
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - 062 - Ultimate Function
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 062 - Ultimate Function
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 063 - Random Arguments Function Challenge
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 064 - Anonymous Function And Use Cases
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 065 - Return Nested Function 
@@ -124,10 +124,10 @@ Recorded Videos => [ 110 From 200 ]
 - [x] Get / Set Elements Content And Attributes
 - [x] Check Attributes And Examples
 - [x] Create And Append Elements
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Product With Heading And Paragraph
+- [x] Product With Heading And Paragraph
 - [x] Deal With Childrens
 - [x] Dom Events Object
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Validate Form And Prevent Default
+- [x] Validate Form And Prevent Default
 - [x] Events Simulation - Click, Focus, Blur
 - [x] ClassList Object And Methods
 - [x] CSS Styling And Stylesheets 
@@ -135,12 +135,6 @@ Recorded Videos => [ 110 From 200 ]
 - [x] DOM Traversing 
 - [x] DOM Cloning
 - [x] Add Event Listener And Event Target
-
-### Practical Apps
-
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Random Background Changer
-- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Simple Counter
-- [ ] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Calculate Textarea Characters
 
 ### Browser Object Model [BOM]
 
@@ -152,7 +146,7 @@ Recorded Videos => [ 110 From 200 ]
 - [x] Window Open And Close
 - [x] Window History Object
 - [x] Stop, Focus, Print, Scroll, ScrollTo, ScrollBy
-- [x] ![#1589F0](https://via.placeholder.com/12/1589F0/000000?text=+) Practice - Scroll To Top Using ScrollY
+- [x] Scroll To Top Using ScrollY
 - [ ] -
 - [ ] -
 - [ ] Navigator Object And Cookies Part 1
