@@ -110,13 +110,13 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Objects
 
-- [x] 079 - Object Intro
-- [x] 080 - Accessing Object With Dot vs Bracket Notation
-- [x] 081 - Nested Object and Advanced Examples
-- [x] 082 - Create Object With New Keyword
-- [x] 083 - This Keyword
-- [x] 084 - Create Object With Create Method
-- [x] 085 - Create Object With Assign Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 079 - Object Intro
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 080 - Accessing Object With Dot vs Bracket Notation
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 081 - Nested Object and Advanced Examples
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 082 - Create Object With New Keyword
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 083 - This Keyword
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 084 - Create Object With Create Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 085 - Create Object With Assign Method
 
 ### Document Object Model [DOM]
 
