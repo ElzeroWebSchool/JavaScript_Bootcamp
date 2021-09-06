@@ -126,7 +126,7 @@ Recorded Videos => [ 110 From 200 ]
 - [x] 089 - Create And Append Elements
 - [x] 090 - Product With Heading And Paragraph
 - [x] 091 - Deal With Childrens
-- [x] 092 - Dom Events Object
+- [x] 092 - Dom Events
 - [x] 093 - Validate Form And Prevent Default
 - [x] 094 - Events Simulation - Click, Focus, Blur
 - [x] 095 - ClassList Object And Methods
