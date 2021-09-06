@@ -120,21 +120,21 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Document Object Model [DOM]
 
-- [x] What Is DOM ? And Select Elements
-- [x] Get / Set Elements Content And Attributes
-- [x] Check Attributes And Examples
-- [x] Create And Append Elements
-- [x] Product With Heading And Paragraph
-- [x] Deal With Childrens
-- [x] Dom Events Object
-- [x] Validate Form And Prevent Default
-- [x] Events Simulation - Click, Focus, Blur
-- [x] ClassList Object And Methods
-- [x] CSS Styling And Stylesheets 
-- [x] Before, After, Prepend, Append, Remove
-- [x] DOM Traversing 
-- [x] DOM Cloning
-- [x] Add Event Listener And Event Target
+- [x] 086 - What Is DOM ? And Select Elements
+- [x] 087 - Get / Set Elements Content And Attributes
+- [x] 088 - Check Attributes And Examples
+- [x] 089 - Create And Append Elements
+- [x] 090 - Product With Heading And Paragraph
+- [x] 091 - Deal With Childrens
+- [x] 092 - Dom Events Object
+- [x] 093 - Validate Form And Prevent Default
+- [x] 094 - Events Simulation - Click, Focus, Blur
+- [x] 095 - ClassList Object And Methods
+- [x] 096 - CSS Styling And Stylesheets 
+- [x] 097 - Before, After, Prepend, Append, Remove
+- [x] 098 - DOM Traversing 
+- [x] 099 - DOM Cloning
+- [x] 100 - Add Event Listener And Event Target
 
 ### Browser Object Model [BOM]
 
@@ -154,23 +154,33 @@ Recorded Videos => [ 110 From 200 ]
 - [ ] Local Storage 1
 - [ ] Local Storage 2
 
-### ECMAScript New Features
+### Array And Objects Methods
 
 - [ ] New Array Methods 1
 - [ ] New Array Methods 2
-- [ ] Spread Syntax
+- [ ] Object Methods Part 1
+- [ ] Object Methods Part 2
+- [ ] Object Methods Part 3
 
-### Advanced Concepts [Destructuring]
+### Advanced Concepts
 
 - [ ] Destructuring Arrays Part 1
 - [ ] Destructuring Arrays Part 2
-- [ ] Swap Variables
 - [ ] Destructuring Function Parameters
 - [ ] Destructuring Object
+- [ ] Swap Variables
+- [ ] Spread Operator
 
 ### Date
 
 ### Object Oriented Programming
+
+- [ ] Class Introduction
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
 
 ### Generators And Modules
 
@@ -205,8 +215,3 @@ Recorded Videos => [ 110 From 200 ]
 - [ ] Axios
 
 ### Regular Expressions
-
-### Practical Apps
-
-- [ ] Bookmark Application [ 6 Videos ]
-- [ ] Sticky Notes [ 8 Videos ]
