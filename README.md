@@ -120,14 +120,14 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Document Object Model [DOM]
 
-- [x] 086 - What Is DOM ? And Select Elements
-- [x] 087 - Get / Set Elements Content And Attributes
-- [x] 088 - Check Attributes And Examples
-- [x] 089 - Create And Append Elements
-- [x] 090 - Product With Heading And Paragraph
-- [x] 091 - Deal With Childrens
-- [x] 092 - Dom Events
-- [x] 093 - Validate Form And Prevent Default
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 086 - What Is DOM ? And Select Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 087 - Get / Set Elements Content And Attributes
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 088 - Check Attributes And Examples
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 089 - Create And Append Elements
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 090 - Product With Heading And Paragraph
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 091 - Deal With Childrens
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 092 - Dom Events
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 093 - Validate Form And Prevent Default
 - [x] 094 - Events Simulation - Click, Focus, Blur
 - [x] 095 - ClassList Object And Methods
 - [x] 096 - CSS Styling And Stylesheets 
