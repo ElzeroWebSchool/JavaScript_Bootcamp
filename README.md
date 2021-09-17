@@ -128,13 +128,14 @@ Recorded Videos => [ 110 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 091 - Deal With Childrens
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 092 - Dom Events
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 093 - Validate Form And Prevent Default
-- [x] 094 - Events Simulation - Click, Focus, Blur
-- [x] 095 - ClassList Object And Methods
-- [x] 096 - CSS Styling And Stylesheets 
-- [x] 097 - Before, After, Prepend, Append, Remove
-- [x] 098 - DOM Traversing 
-- [x] 099 - DOM Cloning
-- [x] 100 - Add Event Listener And Event Target
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 094 - Events Simulation - Click, Focus, Blur
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 095 - ClassList Object And Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 096 - CSS Styling And Stylesheets 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 097 - Before, After, Prepend, Append, Remove
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 098 - DOM Traversing 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 099 - DOM Cloning
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 100 - Add Event Listener And Event Target
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 101 - DOM Challenge
 
 ### Browser Object Model [BOM]
 
