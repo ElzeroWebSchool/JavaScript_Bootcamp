@@ -139,21 +139,25 @@ Recorded Videos => [ 110 From 200 ]
 
 ### Browser Object Model [BOM]
 
-- [x] What Is BOM ?
-- [x] Alert, Confirm, Prompt
-- [x] setTimeout and clearTimeout Methods
-- [x] setInterval and clearInterval Methods
-- [x] Window Location Object
-- [x] Window Open And Close
-- [x] Window History Object
-- [x] Stop, Focus, Print, Scroll, ScrollTo, ScrollBy
-- [x] Scroll To Top Using ScrollY
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 102 - What Is BOM ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 103 - Alert, Confirm, Prompt
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 104 - setTimeout and clearTimeout Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 105 - setInterval and clearInterval Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 106 - Window Location Object
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 107 - Window Open And Close
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 108 - Window History Object
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 109 - Scroll, ScrollTo, ScrollBy, Focus, Print, Stop
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 110 - Scroll To Top Using ScrollY Practice
+- [ ] -
+- [ ] -
+- [ ] -
 - [ ] -
 - [ ] -
 - [ ] Navigator Object And Cookies Part 1
 - [ ] Cookies Part 2
 - [ ] Local Storage 1
 - [ ] Local Storage 2
+- [ ] BOM Challenge
 
 ### Array And Objects Methods
 
