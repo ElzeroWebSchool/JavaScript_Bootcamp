@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 110 From 200 ]
+Recorded Videos => [ 113 From 200 ]
 
-![55%](https://progress-bar.dev/55/?title=Done)
+![56%](https://progress-bar.dev/56/?title=Done)
 
 ### Introduction
 
@@ -150,7 +150,7 @@ Recorded Videos => [ 110 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 110 - Scroll To Top Using ScrollY Practice
 - [x] - 111 - Local Storage
 - [x] - 112 - Local Storage Color Application
-- [ ] -
+- [x] - 113 - Session Storage And Use Cases
 - [ ] -
 - [ ] -
 - [ ] -
