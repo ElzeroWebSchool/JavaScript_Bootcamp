@@ -148,15 +148,14 @@ Recorded Videos => [ 110 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 108 - Window History Object
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 109 - Scroll, ScrollTo, ScrollBy, Focus, Print, Stop
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 110 - Scroll To Top Using ScrollY Practice
-- [ ] -
+- [x] - 111 - Local Storage
+- [x] - 112 - Local Storage Color Application
 - [ ] -
 - [ ] -
 - [ ] -
 - [ ] -
 - [ ] Navigator Object And Cookies Part 1
 - [ ] Cookies Part 2
-- [ ] Local Storage 1
-- [ ] Local Storage 2
 - [ ] BOM Challenge
 
 ### Array And Objects Methods
