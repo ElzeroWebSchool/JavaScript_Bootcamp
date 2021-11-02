@@ -148,15 +148,22 @@ Recorded Videos => [ 113 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 108 - Window History Object
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 109 - Scroll, ScrollTo, ScrollBy, Focus, Print, Stop
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 110 - Scroll To Top Using ScrollY Practice
-- [x] - 111 - Local Storage
-- [x] - 112 - Local Storage Color Application
-- [x] - 113 - Session Storage And Use Cases
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] Navigator Object And Cookies Part 1
-- [ ] Cookies Part 2
-- [ ] BOM Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 111 - Local Storage
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 112 - Local Storage Color Application
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 113 - Session Storage And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 114 - BOM Challenge
+
+### Destructuring And Advanced Concepts
+
+- [ ] Destructuring Arrays Part 1
+- [ ] Destructuring Arrays Part 2
+- [ ] Destructuring Arrays Part 3 Swap Variables
+- [ ] Destructuring Object Part 1
+- [ ] Destructuring Object Part 2
+- [ ] Destructuring Function Parameters
+- [ ] Destructuring Mixed Content
+- [ ] Spread Operator
+- [ ] Enhanced Object Literals
 
 ### Array And Objects Methods
 
@@ -165,15 +172,6 @@ Recorded Videos => [ 113 From 200 ]
 - [ ] Object Methods Part 1
 - [ ] Object Methods Part 2
 - [ ] Object Methods Part 3
-
-### Advanced Concepts
-
-- [ ] Destructuring Arrays Part 1
-- [ ] Destructuring Arrays Part 2
-- [ ] Destructuring Function Parameters
-- [ ] Destructuring Object
-- [ ] Swap Variables
-- [ ] Spread Operator
 
 ### Date
 
