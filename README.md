@@ -164,6 +164,7 @@ Recorded Videos => [ 114 From 200 ]
 - [ ] Destructuring Mixed Content
 - [ ] Spread Operator
 - [ ] Enhanced Object Literals
+- [ ] Destructuring Challenge
 
 ### Array And Objects Methods
 
