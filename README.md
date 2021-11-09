@@ -155,7 +155,7 @@ Recorded Videos => [ 114 From 200 ]
 
 ### Destructuring And Advanced Concepts
 
-- [ ] Destructuring Arrays Part 1
+- [x] Destructuring Arrays Part 1
 - [ ] Destructuring Arrays Part 2
 - [ ] Destructuring Arrays Part 3 Swap Variables
 - [ ] Destructuring Object Part 1
