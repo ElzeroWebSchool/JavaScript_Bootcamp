@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 114 From 200 ]
+Recorded Videos => [ 117 From 200 ]
 
-![56%](https://progress-bar.dev/57/?title=Done)
+![58%](https://progress-bar.dev/58/?title=Done)
 
 ### Introduction
 
@@ -156,8 +156,8 @@ Recorded Videos => [ 114 From 200 ]
 ### Destructuring And Advanced Concepts
 
 - [x] Destructuring Arrays Part 1
-- [ ] Destructuring Arrays Part 2
-- [ ] Destructuring Arrays Part 3 Swap Variables
+- [x] Destructuring Arrays Part 2
+- [x] Destructuring Arrays Part 3 Swap Variables
 - [ ] Destructuring Object Part 1
 - [ ] Destructuring Object Part 2
 - [ ] Destructuring Function Parameters
