@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 120 From 200 ]
+Recorded Videos => [ 122 From 200 ]
 
-![60%](https://progress-bar.dev/60/?title=Done)
+![61%](https://progress-bar.dev/61/?title=Done)
 
 ### Introduction
 
@@ -161,8 +161,8 @@ Recorded Videos => [ 120 From 200 ]
 - [x] 118 - Destructuring Object Part 1
 - [x] 119 - Destructuring Object Part 2
 - [x] 120 - Destructuring Function Parameters
-- [ ] 121 - Destructuring Mixed Content
-- [ ] 122 - Destructuring Challenge
+- [x] 121 - Destructuring Mixed Content
+- [x] 122 - Destructuring Challenge
 
 ### Array And Objects Methods And Advanced Concepts
 
