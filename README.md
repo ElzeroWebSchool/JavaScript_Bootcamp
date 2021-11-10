@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 119 From 200 ]
+Recorded Videos => [ 120 From 200 ]
 
-![59%](https://progress-bar.dev/59/?title=Done)
+![60%](https://progress-bar.dev/60/?title=Done)
 
 ### Introduction
 
@@ -153,21 +153,20 @@ Recorded Videos => [ 119 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 113 - Session Storage And Use Cases
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 114 - BOM Challenge
 
-### Destructuring And Advanced Concepts
+### Destructuring 
 
 - [x] 115 - Destructuring Arrays Part 1
 - [x] 116 - Destructuring Arrays Part 2
 - [x] 117 - Destructuring Arrays Part 3 Swap Variables
 - [x] 118 - Destructuring Object Part 1
 - [x] 119 - Destructuring Object Part 2
-- [ ] Destructuring Function Parameters
-- [ ] Destructuring Mixed Content
+- [x] 120 - Destructuring Function Parameters
+- [ ] 121 - Destructuring Mixed Content
+- [ ] 122 - Destructuring Challenge
+
+### Array And Objects Methods And Advanced Concepts
+
 - [ ] Spread Operator
-- [ ] Enhanced Object Literals
-- [ ] Destructuring Challenge
-
-### Array And Objects Methods
-
 - [ ] New Array Methods 1
 - [ ] New Array Methods 2
 - [ ] Object Methods Part 1
