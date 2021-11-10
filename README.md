@@ -155,11 +155,11 @@ Recorded Videos => [ 117 From 200 ]
 
 ### Destructuring And Advanced Concepts
 
-- [x] Destructuring Arrays Part 1
-- [x] Destructuring Arrays Part 2
-- [x] Destructuring Arrays Part 3 Swap Variables
-- [ ] Destructuring Object Part 1
-- [ ] Destructuring Object Part 2
+- 115 - [x] Destructuring Arrays Part 1
+- 116 - [x] Destructuring Arrays Part 2
+- 117 - [x] Destructuring Arrays Part 3 Swap Variables
+- 118 - [x] Destructuring Object Part 1
+- 119 - [x] Destructuring Object Part 2
 - [ ] Destructuring Function Parameters
 - [ ] Destructuring Mixed Content
 - [ ] Spread Operator
