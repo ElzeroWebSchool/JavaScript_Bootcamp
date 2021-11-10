@@ -155,14 +155,14 @@ Recorded Videos => [ 122 From 200 ]
 
 ### Destructuring 
 
-- [x] 115 - Destructuring Arrays Part 1
-- [x] 116 - Destructuring Arrays Part 2
-- [x] 117 - Destructuring Arrays Part 3 Swap Variables
-- [x] 118 - Destructuring Object Part 1
-- [x] 119 - Destructuring Object Part 2
-- [x] 120 - Destructuring Function Parameters
-- [x] 121 - Destructuring Mixed Content
-- [x] 122 - Destructuring Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 115 - Destructuring Arrays Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 116 - Destructuring Arrays Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 117 - Destructuring Arrays Part 3 Swap Variables
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 118 - Destructuring Object Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 119 - Destructuring Object Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 120 - Destructuring Function Parameters
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 121 - Destructuring Mixed Content
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 122 - Destructuring Challenge
 
 ### Array And Objects Methods And Advanced Concepts
 
