@@ -166,8 +166,9 @@ Recorded Videos => [ 122 From 200 ]
 
 ### More Methods And New Data Types
 
-- [ ] Set Data Type And Methods
-- [ ] Map Data Type And Methods
+- [x] Set Data Type And Methods
+- [ ] Map Data Type vs Object Full Comparison
+- [ ] Map Methods
 - [ ] Array.from Method
 - [ ] Array.copyWithin Method
 - [ ] -
