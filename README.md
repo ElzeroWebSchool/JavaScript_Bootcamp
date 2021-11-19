@@ -170,10 +170,10 @@ Recorded Videos => [ 122 From 200 ]
 - [ ] Map Data Type And Methods
 - [ ] Array.from Method
 - [ ] Array.copyWithin Method
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Spread Operator
 
 ### Date
