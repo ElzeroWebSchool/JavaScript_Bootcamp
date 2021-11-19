@@ -164,14 +164,14 @@ Recorded Videos => [ 122 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 121 - Destructuring Mixed Content
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 122 - Destructuring Challenge
 
-### Array And Objects Methods And Advanced Concepts
+### Bonus Methods & Advanced Concepts
 
-- [ ] Spread Operator
-- [ ] New Array Methods 1
-- [ ] New Array Methods 2
+- [ ] Array Bonus Methods [from, copyWithin]
+- [ ] Array Bonus Methods []
 - [ ] Object Methods Part 1
 - [ ] Object Methods Part 2
 - [ ] Object Methods Part 3
+- [ ] Spread Operator
 
 ### Date
 
