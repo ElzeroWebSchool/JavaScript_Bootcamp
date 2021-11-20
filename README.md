@@ -173,14 +173,14 @@ Recorded Videos => [ 129 From 200 ]
 - [x] 127 - Map vs WeakMap
 - [x] 128 - Array.from Method
 - [x] 129 - Array.copyWithin Method
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] Spread Operator
+- [ ] 130 -
+- [ ] 131 -
+- [ ] 132 -
+- [ ] 133 -
+- [ ] 134 - 
+- [ ] 135 - Spread Operator
+- [ ] 136 - Some Problems Solving And Training
+- [ ] 137 - Section Challenge
 
 ### Date
 
