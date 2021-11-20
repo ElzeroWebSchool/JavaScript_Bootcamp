@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 126 From 200 ]
+Recorded Videos => [ 127 From 200 ]
 
 ![63%](https://progress-bar.dev/63/?title=Done)
 
@@ -170,7 +170,7 @@ Recorded Videos => [ 126 From 200 ]
 - [x] 124 - Set vs WeakSet And Garbage Collector
 - [x] 125 - Map Data Type vs Object Full Comparison
 - [x] 126 - Map Methods
-- [ ] 127 - Map vs WeakMap
+- [x] 127 - Map vs WeakMap
 - [ ] Array.from Method
 - [ ] Array.copyWithin Method
 - [ ] -
