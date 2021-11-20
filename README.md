@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 123 From 200 ]
+Recorded Videos => [ 124 From 200 ]
 
-![61%](https://progress-bar.dev/61/?title=Done)
+![62%](https://progress-bar.dev/62/?title=Done)
 
 ### Introduction
 
@@ -167,8 +167,10 @@ Recorded Videos => [ 123 From 200 ]
 ### More Methods And New Data Types
 
 - [x] Set Data Type And Methods
-- [ ] Map Data Type vs Object Full Comparison
+- [ ] Set vs weakSet
+- [x] Map Data Type vs Object Full Comparison
 - [ ] Map Methods
+- [ ] Map vs weakMap
 - [ ] Array.from Method
 - [ ] Array.copyWithin Method
 - [ ] -
