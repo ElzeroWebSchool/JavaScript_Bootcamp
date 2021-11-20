@@ -171,8 +171,8 @@ Recorded Videos => [ 127 From 200 ]
 - [x] 125 - Map Data Type vs Object Full Comparison
 - [x] 126 - Map Methods
 - [x] 127 - Map vs WeakMap
-- [ ] Array.from Method
-- [ ] Array.copyWithin Method
+- [x] 128 - Array.from Method
+- [x] 129 - Array.copyWithin Method
 - [ ] -
 - [ ] -
 - [ ] -
