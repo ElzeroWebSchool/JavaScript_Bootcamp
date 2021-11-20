@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 127 From 200 ]
+Recorded Videos => [ 129 From 200 ]
 
-![63%](https://progress-bar.dev/63/?title=Done)
+![64%](https://progress-bar.dev/64/?title=Done)
 
 ### Introduction
 
