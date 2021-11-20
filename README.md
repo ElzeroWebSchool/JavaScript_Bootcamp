@@ -167,10 +167,10 @@ Recorded Videos => [ 126 From 200 ]
 ### More Methods And New Data Types
 
 - [x] 123 - Set Data Type And Methods
-- [x] 124 - Set vs WeakSet
+- [x] 124 - Set vs WeakSet And Garbage Collector
 - [x] 125 - Map Data Type vs Object Full Comparison
 - [x] 126 - Map Methods
-- [ ] 127 - Map vs weakMap
+- [ ] 127 - Map vs WeakMap
 - [ ] Array.from Method
 - [ ] Array.copyWithin Method
 - [ ] -
