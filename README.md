@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 131 From 200 ]
+Recorded Videos => [ 132 From 200 ]
 
-![65%](https://progress-bar.dev/65/?title=Done)
+![66%](https://progress-bar.dev/66/?title=Done)
 
 ### Introduction
 
@@ -175,12 +175,10 @@ Recorded Videos => [ 131 From 200 ]
 - [x] 129 - Array.copyWithin Method
 - [x] 130 - Array.some Method
 - [x] 131 - Array.every Method
-- [ ] 132 -
+- [x] 132 - Spread Syntax And Use Cases
 - [ ] 133 -
 - [ ] 134 - 
-- [ ] 135 - Spread Operator
-- [ ] 136 - Some Problems Solving And Training
-- [ ] 137 - Section Challenge
+- [ ] 135 - Section Challenge
 
 ### Date
 
