@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 129 From 200 ]
+Recorded Videos => [ 131 From 200 ]
 
-![64%](https://progress-bar.dev/64/?title=Done)
+![65%](https://progress-bar.dev/65/?title=Done)
 
 ### Introduction
 
@@ -173,8 +173,8 @@ Recorded Videos => [ 129 From 200 ]
 - [x] 127 - Map vs WeakMap
 - [x] 128 - Array.from Method
 - [x] 129 - Array.copyWithin Method
-- [ ] 130 -
-- [ ] 131 -
+- [x] 130 - Array.some Method
+- [x] 131 - Array.every Method
 - [ ] 132 -
 - [ ] 133 -
 - [ ] 134 - 
