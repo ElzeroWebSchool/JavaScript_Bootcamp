@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 132 From 200 ]
+Recorded Videos => [ 133 From 200 ]
 
 ![66%](https://progress-bar.dev/66/?title=Done)
 
@@ -176,9 +176,7 @@ Recorded Videos => [ 132 From 200 ]
 - [x] 130 - Array.some Method
 - [x] 131 - Array.every Method
 - [x] 132 - Spread Syntax And Use Cases
-- [ ] 133 -
-- [ ] 134 - 
-- [ ] 135 - Section Challenge
+- [x] 133 - Section Challenge
 
 ### Date
 
