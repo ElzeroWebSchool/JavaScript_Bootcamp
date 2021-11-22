@@ -213,7 +213,7 @@ Recorded Videos => [ 133 From 200 ]
 - [ ] Promise Intro
 - [ ] Then And Catch
 - [ ] XHR And Promise
-- [ ] Prmise All And Race
+- [ ] Promise All And Race
 - [ ] Async
 - [ ] Await
 - [ ] Error Handling
