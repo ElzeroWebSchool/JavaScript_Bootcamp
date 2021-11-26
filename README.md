@@ -166,17 +166,17 @@ Recorded Videos => [ 133 From 200 ]
 
 ### More Methods And New Data Types
 
-- [x] 123 - Set Data Type And Methods
-- [x] 124 - Set vs WeakSet And Garbage Collector
-- [x] 125 - Map Data Type vs Object Full Comparison
-- [x] 126 - Map Methods
-- [x] 127 - Map vs WeakMap
-- [x] 128 - Array.from Method
-- [x] 129 - Array.copyWithin Method
-- [x] 130 - Array.some Method
-- [x] 131 - Array.every Method
-- [x] 132 - Spread Syntax And Use Cases
-- [x] 133 - Section Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 123 - Set Data Type And Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 124 - Set vs WeakSet And Garbage Collector
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 125 - Map Data Type vs Object Full Comparison
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 126 - Map Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 127 - Map vs WeakMap
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 128 - Array.from Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 129 - Array.copyWithin Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 130 - Array.some Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 131 - Array.every Method
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 132 - Spread Syntax And Use Cases
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 133 - Section Challenge
 
 ### Date
 
