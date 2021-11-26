@@ -178,6 +178,18 @@ Recorded Videos => [ 133 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 132 - Spread Syntax And Use Cases
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 133 - Section Challenge
 
+### Generators And Modules
+
+- [ ] Generators Part 1
+- [ ] Generators Part 2
+- [ ] Generators Part 3
+- [ ] Generators Part 4
+- [ ] Modules Part 1
+- [ ] Modules Part 2
+- [ ] Modules Part 3
+
+### Regular Expressions
+
 ### Date
 
 ### Object Oriented Programming
@@ -188,16 +200,6 @@ Recorded Videos => [ 133 From 200 ]
 - [ ] -
 - [ ] -
 - [ ] -
-
-### Generators And Modules
-
-- [ ] Generators Part 1
-- [ ] Generators Part 2
-- [ ] Generators Part 3
-- [ ] Generators Part 4
-- [ ] Modules Part 1
-- [ ] Modules Part 2
-- [ ] Modules Part 3
 
 ### Asynchronous JavaScript Programming
 
@@ -221,4 +223,4 @@ Recorded Videos => [ 133 From 200 ]
 - [ ] Fetch API
 - [ ] Axios
 
-### Regular Expressions
+
