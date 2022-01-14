@@ -178,6 +178,17 @@ Recorded Videos => [ 133 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 132 - Spread Syntax And Use Cases
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 133 - Section Challenge
 
+### Regular Expressions
+
+- [ ] Intro And Creating a Regular Expression
+- [ ] Examples To Use Regular Expressions Patterns
+- [ ] Assertions
+- [ ] Meta Characters
+- [ ] Groups And Ranges
+- [ ] Quantifiers
+- [ ] Unicode Property Escapes
+- [ ] RegExp Challenge
+
 ### Generators And Modules
 
 - [ ] Generators Part 1
@@ -187,8 +198,6 @@ Recorded Videos => [ 133 From 200 ]
 - [ ] Modules Part 1
 - [ ] Modules Part 2
 - [ ] Modules Part 3
-
-### Regular Expressions
 
 ### Date
 
