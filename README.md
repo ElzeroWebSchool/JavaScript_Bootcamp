@@ -181,7 +181,8 @@ Recorded Videos => [ 133 From 200 ]
 ### Regular Expressions
 
 - [x] 134 - Intro And What Is Regular Expression ?
-- [ ] Examples To Use Regular Expressions Patterns
+- [ ] Regular Expressions Modifiers
+- [ ] Regular Expressions Search Methods
 - [ ] Assertions
 - [ ] Meta Characters
 - [ ] Groups And Ranges
