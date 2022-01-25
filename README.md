@@ -181,7 +181,7 @@ Recorded Videos => [ 133 From 200 ]
 ### Regular Expressions
 
 - [x] 134 - Intro And What Is Regular Expression ?
-- [ ] Regular Expressions Modifiers
+- [x] 135 - Regular Expressions Modifiers
 - [ ] Regular Expressions Search Methods
 - [ ] Assertions
 - [ ] Meta Characters
