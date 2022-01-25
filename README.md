@@ -180,7 +180,7 @@ Recorded Videos => [ 133 From 200 ]
 
 ### Regular Expressions
 
-- [ ] Intro And Creating a Regular Expression
+- [x] 134 - Intro And What Is Regular Expression ?
 - [ ] Examples To Use Regular Expressions Patterns
 - [ ] Assertions
 - [ ] Meta Characters
