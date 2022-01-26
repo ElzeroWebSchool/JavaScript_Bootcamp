@@ -184,7 +184,7 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 135 - Regular Expressions Modifiers
 - [x] 136 - Regular Expressions Ranges Part 1
 - [x] 137 - Regular Expressions Ranges Part 2
-- [ ] 138 - Regular Expressions Character Classes Part 1
+- [x] 138 - Regular Expressions Character Classes Part 1
 - [ ] 139 - Regular Expressions Character Classes Part 2
 - [ ] Regular Expressions Search Methods
 - [ ] Assertions
