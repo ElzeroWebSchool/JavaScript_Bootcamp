@@ -182,10 +182,10 @@ Recorded Videos => [ 133 From 200 ]
 
 - [x] 134 - Intro And What Is Regular Expression ?
 - [x] 135 - Regular Expressions Modifiers
+- [ ] Regular Expressions Ranges
 - [ ] Regular Expressions Search Methods
 - [ ] Assertions
 - [ ] Meta Characters
-- [ ] Groups And Ranges
 - [ ] Quantifiers
 - [ ] Unicode Property Escapes
 - [ ] RegExp Challenge
