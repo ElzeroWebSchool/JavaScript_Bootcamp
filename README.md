@@ -181,14 +181,15 @@ Recorded Videos => [ 133 From 200 ]
 ### Regular Expressions
 
 - [x] 134 - Intro And What Is Regular Expression ?
-- [x] 135 - Regular Expressions Modifiers
-- [x] 136 - Regular Expressions Ranges Part 1
-- [x] 137 - Regular Expressions Ranges Part 2
-- [x] 138 - Regular Expressions Character Classes Part 1
-- [ ] 139 - Regular Expressions Character Classes Part 2
+- [x] 135 - RegExp Modifiers
+- [x] 136 - RegExp Ranges Part 1
+- [x] 137 - RegExp Ranges Part 2
+- [x] 138 - RegExp Character Classes Part 1
+- [ ] 139 - RegExp Character Classes Part 2
+- [ ] Quantifiers Part 1
+- [ ] Quantifiers Part 2
 - [ ] Regular Expressions Search Methods
 - [ ] Assertions
-- [ ] Quantifiers
 - [ ] Unicode Property Escapes
 - [ ] RegExp Challenge
 
