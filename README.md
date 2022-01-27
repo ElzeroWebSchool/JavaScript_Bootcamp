@@ -185,10 +185,9 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 136 - RegExp Ranges Part 1
 - [x] 137 - RegExp Ranges Part 2
 - [x] 138 - RegExp Character Classes Part 1
-- [ ] 139 - RegExp Character Classes Part 2
-- [ ] Quantifiers Part 1
-- [ ] Quantifiers Part 2
-- [ ] Regular Expressions Search Methods
+- [x] 139 - RegExp Character Classes Part 2
+- [x] 140 - RegExp Quantifiers Part 1
+- [ ] 141 - RegExp Quantifiers Part 2
 - [ ] Assertions
 - [ ] Unicode Property Escapes
 - [ ] RegExp Challenge
