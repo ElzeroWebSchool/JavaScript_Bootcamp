@@ -187,7 +187,8 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 138 - RegExp Character Classes Part 1
 - [x] 139 - RegExp Character Classes Part 2
 - [x] 140 - RegExp Quantifiers Part 1
-- [ ] 141 - RegExp Quantifiers Part 2
+- [x] 141 - RegExp Quantifiers Part 2
+- [x] 142 - RegExp Quantifiers Part 3
 - [ ] Assertions
 - [ ] Unicode Property Escapes
 - [ ] RegExp Challenge
