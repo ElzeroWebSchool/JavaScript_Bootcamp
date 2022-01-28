@@ -190,8 +190,9 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 141 - RegExp Quantifiers Part 2
 - [x] 142 - RegExp Quantifiers Part 3
 - [x] 143 - Replace With The RegExp Pattern
-- [ ] 144 - Form Validation Practice
-- [ ] 145 - RegExp Challenge
+- [x] 144 - Form Validation Practice
+- [x] 145 - Test Your RegExp And Discussions
+- [ ] 146 - RegExp Challenge
 
 ### Generators And Modules
 
