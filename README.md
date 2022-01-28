@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 133 From 200 ]
+Recorded Videos => [ 146 From 200 ]
 
-![66%](https://progress-bar.dev/66/?title=Done)
+![73%](https://progress-bar.dev/73/?title=Done)
 
 ### Introduction
 
@@ -192,7 +192,7 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 143 - Replace With The RegExp Pattern
 - [x] 144 - Form Validation Practice
 - [x] 145 - Test Your RegExp And Discussions
-- [ ] 146 - RegExp Challenge
+- [x] 146 - RegExp Challenge
 
 ### Generators And Modules
 
