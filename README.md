@@ -189,9 +189,9 @@ Recorded Videos => [ 133 From 200 ]
 - [x] 140 - RegExp Quantifiers Part 1
 - [x] 141 - RegExp Quantifiers Part 2
 - [x] 142 - RegExp Quantifiers Part 3
-- [ ] Assertions
-- [ ] Unicode Property Escapes
-- [ ] RegExp Challenge
+- [ ] 143 - Replace With The RegExp
+- [ ] 144 - Form Validation Practice
+- [ ] 145 - RegExp Challenge
 
 ### Generators And Modules
 
