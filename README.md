@@ -180,19 +180,19 @@ Recorded Videos => [ 146 From 200 ]
 
 ### Regular Expressions
 
-- [x] 134 - Intro And What Is Regular Expression ?
-- [x] 135 - RegExp Modifiers
-- [x] 136 - RegExp Ranges Part 1
-- [x] 137 - RegExp Ranges Part 2
-- [x] 138 - RegExp Character Classes Part 1
-- [x] 139 - RegExp Character Classes Part 2
-- [x] 140 - RegExp Quantifiers Part 1
-- [x] 141 - RegExp Quantifiers Part 2
-- [x] 142 - RegExp Quantifiers Part 3
-- [x] 143 - Replace With The RegExp Pattern
-- [x] 144 - Form Validation Practice
-- [x] 145 - Test Your RegExp And Discussions
-- [x] 146 - RegExp Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 134 - Intro And What Is Regular Expression ?
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 135 - RegExp Modifiers
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 136 - RegExp Ranges Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 137 - RegExp Ranges Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 138 - RegExp Character Classes Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 139 - RegExp Character Classes Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 140 - RegExp Quantifiers Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 141 - RegExp Quantifiers Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 142 - RegExp Quantifiers Part 3
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 143 - Replace With The RegExp Pattern
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 144 - Form Validation Practice
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 145 - Test Your RegExp And Discussions
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 146 - RegExp Challenge
 
 ### Generators And Modules
 
