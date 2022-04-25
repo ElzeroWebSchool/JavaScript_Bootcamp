@@ -194,6 +194,24 @@ Recorded Videos => [ 146 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 145 - Test Your RegExp And Discussions
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 146 - RegExp Challenge
 
+### Object Oriented Programming
+
+- [ ] What Is OOP
+- [ ] Constructor Function Introduction
+- [ ] Constructor Function Advanced 
+- [ ] Constructor Function Properties
+- [ ] Constructor Function Built In Constructors
+- [ ] Prototype Introduction
+- [ ] Prototype Chain
+- [ ] Prototype Extend Constructors Features
+- [ ] Class Introduction
+- [ ] Class Static Properties And Methods
+- [ ] Class Inheritance
+- [ ] Accessors - Getters And Setters
+- [ ] Object Meta Data And Descriptor
+- [ ] Define Object Properties
+- [ ] OOP Challenge
+
 ### Generators And Modules
 
 - [ ] Generators Part 1
@@ -205,15 +223,6 @@ Recorded Videos => [ 146 From 200 ]
 - [ ] Modules Part 3
 
 ### Date
-
-### Object Oriented Programming
-
-- [ ] Class Introduction
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
 
 ### Asynchronous JavaScript Programming
 
