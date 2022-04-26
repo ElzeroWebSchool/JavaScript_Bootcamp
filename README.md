@@ -199,14 +199,13 @@ Recorded Videos => [ 151 From 200 ]
 - [x] Object Oriented Programming Introduction
 - [x] Constructor Function Introduction
 - [x] Constructor Function New Syntax
-- [x] Constructor Function Deal With Properties & Methods
-- [x] Constructor Function Update Properties & Built In Constructors
+- [x] Class Deal With Properties & Methods
+- [x] Class Update Properties & Built In Constructors
+- [ ] Class Static Properties And Methods
+- [ ] Class Inheritance
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
 - [ ] Prototype Extend Constructors Features
-- [ ] Class Introduction
-- [ ] Class Static Properties And Methods
-- [ ] Class Inheritance
 - [ ] Accessors - Getters And Setters
 - [ ] Object Meta Data And Descriptor
 - [ ] Define Object Properties
