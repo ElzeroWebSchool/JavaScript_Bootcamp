@@ -203,7 +203,7 @@ Recorded Videos => [ 152 From 200 ]
 - [x] 151 - Constructor Function Update Properties & Built In Constructors
 - [x] 152 - Class Static Properties And Methods
 - [ ] Class Inheritance
-- [ ] Class Encapsulation
+- [ ] Class Encapsulation & Private Properties
 - [ ] Class Advanced Informations
 - [ ] Accessors - Getters And Setters
 - [ ] Prototype Introduction
