@@ -203,6 +203,8 @@ Recorded Videos => [ 152 From 200 ]
 - [x] Constructor Function Update Properties & Built In Constructors
 - [x] Class Static Properties And Methods
 - [ ] Class Inheritance
+- [ ] Class Encapsulation
+- [ ] Class Advanced Informations
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
 - [ ] Prototype Extend Constructors Features
