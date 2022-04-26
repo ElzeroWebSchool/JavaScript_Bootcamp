@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 149 From 200 ]
+Recorded Videos => [ 150 From 200 ]
 
-![74%](https://progress-bar.dev/74/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 
 ### Introduction
 
@@ -199,7 +199,7 @@ Recorded Videos => [ 149 From 200 ]
 - [x] Object Oriented Programming Introduction
 - [x] Constructor Function Introduction
 - [x] Constructor Function New Syntax
-- [ ] Constructor Function Properties
+- [x] Constructor Function Deal With Properties & Methods
 - [ ] Constructor Function Built In Constructors
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
