@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 151 From 200 ]
+Recorded Videos => [ 152 From 200 ]
 
-![75%](https://progress-bar.dev/75/?title=Done)
+![76%](https://progress-bar.dev/76/?title=Done)
 
 ### Introduction
 
@@ -201,7 +201,7 @@ Recorded Videos => [ 151 From 200 ]
 - [x] Constructor Function New Syntax
 - [x] Constructor Function Deal With Properties & Methods
 - [x] Constructor Function Update Properties & Built In Constructors
-- [ ] Class Static Properties And Methods
+- [x] Class Static Properties And Methods
 - [ ] Class Inheritance
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
