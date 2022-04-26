@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 150 From 200 ]
+Recorded Videos => [ 151 From 200 ]
 
 ![75%](https://progress-bar.dev/75/?title=Done)
 
@@ -200,7 +200,7 @@ Recorded Videos => [ 150 From 200 ]
 - [x] Constructor Function Introduction
 - [x] Constructor Function New Syntax
 - [x] Constructor Function Deal With Properties & Methods
-- [ ] Constructor Function Built In Constructors
+- [x] Constructor Function Update Properties & Built In Constructors
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
 - [ ] Prototype Extend Constructors Features
