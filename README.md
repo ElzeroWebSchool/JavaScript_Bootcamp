@@ -198,7 +198,7 @@ Recorded Videos => [ 149 From 200 ]
 
 - [x] Object Oriented Programming Introduction
 - [x] Constructor Function Introduction
-- [x] Constructor Function New Syntax And Object Instance Info
+- [x] Constructor Function New Syntax
 - [ ] Constructor Function Properties
 - [ ] Constructor Function Built In Constructors
 - [ ] Prototype Introduction
