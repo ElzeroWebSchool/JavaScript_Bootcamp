@@ -196,25 +196,28 @@ Recorded Videos => [ 152 From 200 ]
 
 ### Object Oriented Programming
 
-- [x] Object Oriented Programming Introduction
-- [x] Constructor Function Introduction
-- [x] Constructor Function New Syntax
-- [x] Constructor Function Deal With Properties & Methods
-- [x] Constructor Function Update Properties & Built In Constructors
-- [x] Class Static Properties And Methods
+- [x] 147 - Object Oriented Programming Introduction
+- [x] 148 - Constructor Function Introduction
+- [x] 149 - Constructor Function New Syntax
+- [x] 150 - Constructor Function Deal With Properties & Methods
+- [x] 151 - Constructor Function Update Properties & Built In Constructors
+- [x] 152 - Class Static Properties And Methods
 - [ ] Class Inheritance
 - [ ] Class Encapsulation
 - [ ] Class Advanced Informations
+- [ ] Accessors - Getters And Setters
 - [ ] Prototype Introduction
 - [ ] Prototype Chain
 - [ ] Prototype Extend Constructors Features
-- [ ] Accessors - Getters And Setters
 - [ ] Object Meta Data And Descriptor
 - [ ] Define Object Properties
 - [ ] OOP Challenge
 
-### Generators And Modules
+### Date, Time, Generators And Modules
 
+- [ ] Date And Time Part 1
+- [ ] Date And Time Part 2
+- [ ] Date And Time Part 3
 - [ ] Generators Part 1
 - [ ] Generators Part 2
 - [ ] Generators Part 3
@@ -223,7 +226,7 @@ Recorded Videos => [ 152 From 200 ]
 - [ ] Modules Part 2
 - [ ] Modules Part 3
 
-### Date
+### JSON 
 
 ### Asynchronous JavaScript Programming
 
@@ -246,5 +249,4 @@ Recorded Videos => [ 152 From 200 ]
 - [ ] Promise With Async / Await
 - [ ] Fetch API
 - [ ] Axios
-
-
+- [ ] Asynchronous Programming Challenge
