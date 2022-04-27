@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 154 From 200 ]
+Recorded Videos => [ 155 From 200 ]
 
 ![77%](https://progress-bar.dev/77/?title=Done)
 
@@ -204,11 +204,8 @@ Recorded Videos => [ 154 From 200 ]
 - [x] 152 - Class Static Properties And Methods
 - [x] 153 - Class Inheritance
 - [x] 154 - Class Encapsulation & Private Properties
-- [ ] Class Advanced Informations
-- [ ] Accessors - Getters And Setters
-- [ ] Prototype Introduction
-- [ ] Prototype Chain
-- [ ] Prototype Extend Constructors Features
+- [x] 155 - Prototype Introduction
+- [ ] Add To Prototype Chain & Extend Constructors Features
 - [ ] Object Meta Data And Descriptor
 - [ ] Define Object Properties
 - [ ] OOP Challenge
