@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 153 From 200 ]
+Recorded Videos => [ 154 From 200 ]
 
-![76%](https://progress-bar.dev/76/?title=Done)
+![77%](https://progress-bar.dev/77/?title=Done)
 
 ### Introduction
 
@@ -203,7 +203,7 @@ Recorded Videos => [ 153 From 200 ]
 - [x] 151 - Constructor Function Update Properties & Built In Constructors
 - [x] 152 - Class Static Properties And Methods
 - [x] 153 - Class Inheritance
-- [ ] Class Encapsulation & Private Properties
+- [x] 154 - Class Encapsulation & Private Properties
 - [ ] Class Advanced Informations
 - [ ] Accessors - Getters And Setters
 - [ ] Prototype Introduction
