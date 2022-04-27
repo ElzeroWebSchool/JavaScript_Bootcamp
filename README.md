@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 157 From 200 ]
+Recorded Videos => [ 158 From 200 ]
 
-![78%](https://progress-bar.dev/78/?title=Done)
+![79%](https://progress-bar.dev/79/?title=Done)
 
 ### Introduction
 
@@ -206,9 +206,8 @@ Recorded Videos => [ 157 From 200 ]
 - [x] 154 - Class Encapsulation & Private Properties
 - [x] 155 - Prototype Introduction
 - [x] 156 - Add To Prototype Chain & Extend Constructors Features
-- [x] 157 - Object Meta Data And Descriptor
-- [ ] Define Object Properties
-- [ ] OOP Challenge
+- [x] 157 - Object Meta Data And Descriptor Part 1
+- [x] 158 - Object Meta Data And Descriptor Part 2
 
 ### Date, Time, Generators And Modules
 
