@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 152 From 200 ]
+Recorded Videos => [ 153 From 200 ]
 
 ![76%](https://progress-bar.dev/76/?title=Done)
 
@@ -202,7 +202,7 @@ Recorded Videos => [ 152 From 200 ]
 - [x] 150 - Constructor Function Deal With Properties & Methods
 - [x] 151 - Constructor Function Update Properties & Built In Constructors
 - [x] 152 - Class Static Properties And Methods
-- [ ] Class Inheritance
+- [x] 153 - Class Inheritance
 - [ ] Class Encapsulation & Private Properties
 - [ ] Class Advanced Informations
 - [ ] Accessors - Getters And Setters
