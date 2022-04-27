@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 156 From 200 ]
+Recorded Videos => [ 157 From 200 ]
 
 ![78%](https://progress-bar.dev/78/?title=Done)
 
@@ -206,7 +206,7 @@ Recorded Videos => [ 156 From 200 ]
 - [x] 154 - Class Encapsulation & Private Properties
 - [x] 155 - Prototype Introduction
 - [x] 156 - Add To Prototype Chain & Extend Constructors Features
-- [ ] Object Meta Data And Descriptor
+- [x] 157 - Object Meta Data And Descriptor
 - [ ] Define Object Properties
 - [ ] OOP Challenge
 
