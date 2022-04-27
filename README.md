@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 155 From 200 ]
+Recorded Videos => [ 156 From 200 ]
 
-![77%](https://progress-bar.dev/77/?title=Done)
+![78%](https://progress-bar.dev/78/?title=Done)
 
 ### Introduction
 
@@ -205,7 +205,7 @@ Recorded Videos => [ 155 From 200 ]
 - [x] 153 - Class Inheritance
 - [x] 154 - Class Encapsulation & Private Properties
 - [x] 155 - Prototype Introduction
-- [ ] Add To Prototype Chain & Extend Constructors Features
+- [x] 156 - Add To Prototype Chain & Extend Constructors Features
 - [ ] Object Meta Data And Descriptor
 - [ ] Define Object Properties
 - [ ] OOP Challenge
