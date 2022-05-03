@@ -196,18 +196,18 @@ Recorded Videos => [ 158 From 200 ]
 
 ### Object Oriented Programming
 
-- [x] 147 - Object Oriented Programming Introduction
-- [x] 148 - Constructor Function Introduction
-- [x] 149 - Constructor Function New Syntax
-- [x] 150 - Constructor Function Deal With Properties & Methods
-- [x] 151 - Constructor Function Update Properties & Built In Constructors
-- [x] 152 - Class Static Properties And Methods
-- [x] 153 - Class Inheritance
-- [x] 154 - Class Encapsulation & Private Properties
-- [x] 155 - Prototype Introduction
-- [x] 156 - Add To Prototype Chain & Extend Constructors Features
-- [x] 157 - Object Meta Data And Descriptor Part 1
-- [x] 158 - Object Meta Data And Descriptor Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 147 - Object Oriented Programming Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 148 - Constructor Function Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 149 - Constructor Function New Syntax
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 150 - Constructor Function Deal With Properties & Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 151 - Constructor Function Update Properties & Built In Constructors
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 152 - Class Static Properties And Methods
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 153 - Class Inheritance
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 154 - Class Encapsulation & Private Properties
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 155 - Prototype Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 156 - Add To Prototype Chain & Extend Constructors Features
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 157 - Object Meta Data And Descriptor Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 158 - Object Meta Data And Descriptor Part 2
 
 ### Date, Time, Generators And Modules
 
