@@ -211,9 +211,10 @@ Recorded Videos => [ 158 From 200 ]
 
 ### Date, Time, Generators And Modules
 
-- [ ] Date And Time Part 1
-- [ ] Date And Time Part 2
-- [ ] Date And Time Part 3
+- [ ] Date And Time Introduction
+- [ ] Date And Time Formatting
+- [ ] Date And Time Methods Part 1
+- [ ] Date And Time Methods Part 2
 - [ ] Generators Part 1
 - [ ] Generators Part 2
 - [ ] Generators Part 3
