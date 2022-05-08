@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 160 From 200 ]
+Recorded Videos => [ 161 From 200 ]
 
 ![80%](https://progress-bar.dev/80/?title=Done)
 
@@ -211,9 +211,9 @@ Recorded Videos => [ 160 From 200 ]
 
 ### Date, Time, Generators And Modules
 
-- [x] Date And Time Introduction
-- [x] Date And Time Methods Part 1 And Trainings
-- [ ] Date And Time Methods Part 2
+- [x] 159 - Date And Time Introduction
+- [x] 160 - Get Date And Time
+- [x] 161 - Set Date And Time
 - [ ] Date And Time Formatting
 - [ ] Use Date To Track Operations Time
 - [ ] Generators Part 1
