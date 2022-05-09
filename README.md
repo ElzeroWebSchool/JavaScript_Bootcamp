@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 165 From 200 ]
+Recorded Videos => [ 166 From 200 ]
 
-![82%](https://progress-bar.dev/82/?title=Done)
+![83%](https://progress-bar.dev/83/?title=Done)
 
 ### Introduction
 
@@ -218,8 +218,7 @@ Recorded Videos => [ 165 From 200 ]
 - [x] 163 - Tracking Operations Time
 - [x] 164 - Generators Function Introduction
 - [x] 165 - Delegate Generators
-- [ ] Generators Part 3
-- [ ] Generators Part 4
+- [x] 166 - Generate Infinite Numbers
 - [ ] Modules Part 1
 - [ ] Modules Part 2
 - [ ] Modules Part 3
