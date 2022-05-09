@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 166 From 200 ]
+Recorded Videos => [ 167 From 200 ]
 
 ![83%](https://progress-bar.dev/83/?title=Done)
 
@@ -219,7 +219,7 @@ Recorded Videos => [ 166 From 200 ]
 - [x] 164 - Generators Function Introduction
 - [x] 165 - Delegate Generators
 - [x] 166 - Generate Infinite Numbers
-- [ ] Modules Part 1
+- [x] 167 - Modules Import and Export
 - [ ] Modules Part 2
 - [ ] Modules Part 3
 
