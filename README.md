@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 162 From 200 ]
+Recorded Videos => [ 163 From 200 ]
 
 ![81%](https://progress-bar.dev/81/?title=Done)
 
@@ -215,7 +215,7 @@ Recorded Videos => [ 162 From 200 ]
 - [x] 160 - Get Date And Time
 - [x] 161 - Set Date And Time
 - [x] 162 - Formatting Date And Time
-- [ ] Use Date To Track Operations Time
+- [x] 163 - Tracking Operations Time
 - [ ] Generators Part 1
 - [ ] Generators Part 2
 - [ ] Generators Part 3
