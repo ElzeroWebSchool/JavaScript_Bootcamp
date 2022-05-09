@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 163 From 200 ]
+Recorded Videos => [ 165 From 200 ]
 
-![81%](https://progress-bar.dev/81/?title=Done)
+![82%](https://progress-bar.dev/82/?title=Done)
 
 ### Introduction
 
@@ -216,8 +216,8 @@ Recorded Videos => [ 163 From 200 ]
 - [x] 161 - Set Date And Time
 - [x] 162 - Formatting Date And Time
 - [x] 163 - Tracking Operations Time
-- [ ] Generators Part 1
-- [ ] Generators Part 2
+- [x] 164 - Generators Function Introduction
+- [x] 165 - Delegate Generators
 - [ ] Generators Part 3
 - [ ] Generators Part 4
 - [ ] Modules Part 1
