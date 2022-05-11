@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 168 From 200 ]
+Recorded Videos => [ 169 From 200 ]
 
 ![84%](https://progress-bar.dev/84/?title=Done)
 
@@ -224,7 +224,7 @@ Recorded Videos => [ 168 From 200 ]
 
 ### JSON 
 
-- [ ] Introduction And What Is JSON ?
+- [x] 169 - Introduction And What Is JSON ?
 - [ ] JSON Syntax And Compare With JavaScript
 - [ ] API Overview And Tools
 - [ ] Accessing Object Data
