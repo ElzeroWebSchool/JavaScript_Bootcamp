@@ -234,13 +234,13 @@ Recorded Videos => [ 168 From 200 ]
 
 - [ ] Asynchronous vs Synchronous
 - [ ] CallStack, WebAPI, Event Loop, Callback Queue
-- [ ] Pyramid Of Doom
 - [ ] What Is AJAX ?
 - [ ] Network Requests And Status Code
 - [ ] XMLHTTPRequest Part 1
 - [ ] XMLHTTPRequest Part 2
 - [ ] Loop On Responses
 - [ ] Real Life Examples Of AJAX Call
+- [ ] Pyramid Of Doom
 - [ ] Promise Intro
 - [ ] Then And Catch
 - [ ] XHR And Promise
@@ -249,6 +249,8 @@ Recorded Videos => [ 168 From 200 ]
 - [ ] Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
+
+### APIs And Trainings
+
 - [ ] Fetch API
 - [ ] Axios
-- [ ] Asynchronous Programming Challenge
