@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 170 From 200 ]
+Recorded Videos => [ 171 From 200 ]
 
 ![85%](https://progress-bar.dev/85/?title=Done)
 
@@ -211,23 +211,22 @@ Recorded Videos => [ 170 From 200 ]
 
 ### Date, Time, Generators And Modules
 
-- [x] 159 - Date And Time Introduction
-- [x] 160 - Get Date And Time
-- [x] 161 - Set Date And Time
-- [x] 162 - Formatting Date And Time
-- [x] 163 - Tracking Operations Time
-- [x] 164 - Generators Function Introduction
-- [x] 165 - Delegate Generators
-- [x] 166 - Generate Infinite Numbers
-- [x] 167 - Modules Import and Export
-- [x] 168 - Named vs Default Export And Import All
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 159 - Date And Time Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 160 - Get Date And Time
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 161 - Set Date And Time
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 162 - Formatting Date And Time
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 163 - Tracking Operations Time
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 164 - Generators Function Introduction
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 165 - Delegate Generators
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 166 - Generate Infinite Numbers
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 167 - Modules Import and Export
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 168 - Named vs Default Export And Import All
 
 ### JSON 
 
 - [x] 169 - Introduction And What Is JSON ?
 - [x] 170 - JSON Syntax And Compare With JavaScript
-- [ ] API Overview And Tools
-- [ ] Accessing Object Data
+- [x] 171 - API Overview And Tools
 - [ ] Parse And Stringify
 
 ### Asynchronous JavaScript Programming
