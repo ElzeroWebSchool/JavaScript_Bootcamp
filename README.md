@@ -222,15 +222,12 @@ Recorded Videos => [ 171 From 200 ]
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 167 - Modules Import and Export
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 168 - Named vs Default Export And Import All
 
-### JSON 
+### Asynchronous Programming And JSON And AJAX
 
 - [x] 169 - Introduction And What Is JSON ?
 - [x] 170 - JSON Syntax And Compare With JavaScript
 - [x] 171 - API Overview And Tools
 - [ ] Parse And Stringify
-
-### Asynchronous JavaScript Programming
-
 - [ ] Asynchronous vs Synchronous
 - [ ] CallStack, WebAPI, Event Loop, Callback Queue
 - [ ] What Is AJAX ?
@@ -239,6 +236,9 @@ Recorded Videos => [ 171 From 200 ]
 - [ ] XMLHTTPRequest Part 2
 - [ ] Loop On Responses
 - [ ] Real Life Examples Of AJAX Call
+
+### Asynchronous JavaScript Programming
+
 - [ ] Pyramid Of Doom
 - [ ] Promise Intro
 - [ ] Then And Catch
