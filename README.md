@@ -244,8 +244,7 @@ Recorded Videos => [ 172 From 200 ]
 - [ ] Then And Catch
 - [ ] XHR And Promise
 - [ ] Promise All And Race
-- [ ] Async
-- [ ] Await
+- [ ] Async & Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
 
