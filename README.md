@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 172 From 200 ]
+Recorded Videos => [ 173 From 200 ]
 
 ![86%](https://progress-bar.dev/86/?title=Done)
 
@@ -228,7 +228,7 @@ Recorded Videos => [ 172 From 200 ]
 - [x] 170 - JSON Syntax And Compare With JavaScript
 - [x] 171 - API Overview And Tools
 - [x] 172 - Parse And Stringify
-- [ ] Asynchronous vs Synchronous
+- [x] 173 - Asynchronous vs Synchronous Programming
 - [ ] CallStack, WebAPI, Event Loop, Callback Queue
 - [ ] What Is AJAX ?
 - [ ] Network Requests And Status Code
