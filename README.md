@@ -8,15 +8,15 @@ Recorded Videos => [ 173 From 200 ]
 
 ### Introduction
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 001 - Introduction And What Is JavaScript ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 002 - How To Study The Course ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 003 - Setting Up Environment And Tools
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 004 - Work With Chrome Developer Tools
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 005 - Where To Put The Code ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 006 - Comments And Bad Practices
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 007 - Output To Screen
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 008 - Console Methods And Styling And WebAPI
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 009 - What Is ECMAScript ?
+- [x] `Uploaded` - 001 - Introduction And What Is JavaScript ?
+- [x] `Uploaded` - 002 - How To Study The Course ?
+- [x] `Uploaded` - 003 - Setting Up Environment And Tools
+- [x] `Uploaded` - 004 - Work With Chrome Developer Tools
+- [x] `Uploaded` - 005 - Where To Put The Code ?
+- [x] `Uploaded` - 006 - Comments And Bad Practices
+- [x] `Uploaded` - 007 - Output To Screen
+- [x] `Uploaded` - 008 - Console Methods And Styling And WebAPI
+- [x] `Uploaded` - 009 - What Is ECMAScript ?
 
 ### Data Types And Variables
 
