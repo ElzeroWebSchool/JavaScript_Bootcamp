@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 173 From 200 ]
+Recorded Videos => [ 175 From 200 ]
 
-![86%](https://progress-bar.dev/86/?title=Done)
+![87%](https://progress-bar.dev/87/?title=Done)
 
 ### Introduction
 
@@ -211,16 +211,16 @@ Recorded Videos => [ 173 From 200 ]
 
 ### Date, Time, Generators And Modules
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 159 - Date And Time Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 160 - Get Date And Time
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 161 - Set Date And Time
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 162 - Formatting Date And Time
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 163 - Tracking Operations Time
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 164 - Generators Function Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 165 - Delegate Generators
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 166 - Generate Infinite Numbers
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 167 - Modules Import and Export
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 168 - Named vs Default Export And Import All
+- [x] `Uploaded` - 159 - Date And Time Introduction
+- [x] `Uploaded` - 160 - Get Date And Time
+- [x] `Uploaded` - 161 - Set Date And Time
+- [x] `Uploaded` - 162 - Formatting Date And Time
+- [x] `Uploaded` - 163 - Tracking Operations Time
+- [x] `Uploaded` - 164 - Generators Function Introduction
+- [x] `Uploaded` - 165 - Delegate Generators
+- [x] `Uploaded` - 166 - Generate Infinite Numbers
+- [x] `Uploaded` - 167 - Modules Import and Export
+- [x] `Uploaded` - 168 - Named vs Default Export And Import All
 
 ### Asynchronous Programming And JSON And AJAX
 
@@ -229,7 +229,8 @@ Recorded Videos => [ 173 From 200 ]
 - [x] 171 - API Overview And Tools
 - [x] 172 - Parse And Stringify
 - [x] 173 - Asynchronous vs Synchronous Programming
-- [ ] CallStack, WebAPI, Event Loop, Callback Queue
+- [x] 174 - CallStack, Web API
+- [x] 175 - Event Loop, Callback Queue
 - [ ] What Is AJAX ?
 - [ ] Network Requests And Status Code
 - [ ] XMLHTTPRequest Part 1
