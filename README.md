@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 175 From 200 ]
+Recorded Videos => [ 176 From 200 ]
 
-![87%](https://progress-bar.dev/87/?title=Done)
+![88%](https://progress-bar.dev/88/?title=Done)
 
 ### Introduction
 
@@ -231,8 +231,7 @@ Recorded Videos => [ 175 From 200 ]
 - [x] 173 - Asynchronous vs Synchronous Programming
 - [x] 174 - CallStack, Web API
 - [x] 175 - Event Loop, Callback Queue
-- [ ] What Is AJAX ?
-- [ ] Network Requests And Status Code
+- [x] 176 - What Is AJAX And Network Information
 - [ ] XMLHTTPRequest Part 1
 - [ ] XMLHTTPRequest Part 2
 - [ ] Loop On Responses
