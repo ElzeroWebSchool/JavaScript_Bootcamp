@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 176 From 200 ]
+Recorded Videos => [ 178 From 200 ]
 
-![88%](https://progress-bar.dev/88/?title=Done)
+![89%](https://progress-bar.dev/89/?title=Done)
 
 ### Introduction
 
@@ -232,10 +232,8 @@ Recorded Videos => [ 176 From 200 ]
 - [x] 174 - CallStack, Web API
 - [x] 175 - Event Loop, Callback Queue
 - [x] 176 - What Is AJAX And Network Information
-- [ ] XMLHTTPRequest Part 1
-- [ ] XMLHTTPRequest Part 2
-- [ ] Loop On Responses
-- [ ] Real Life Examples Of AJAX Call
+- [x] 177 - Request And Response From Real API
+- [x] 178 - Loop On Data
 
 ### Asynchronous JavaScript Programming
 
@@ -247,8 +245,6 @@ Recorded Videos => [ 176 From 200 ]
 - [ ] Async & Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
-
-### APIs And Trainings
-
 - [ ] Fetch API
 - [ ] Axios
+
