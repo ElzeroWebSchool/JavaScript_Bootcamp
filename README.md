@@ -235,7 +235,7 @@ Recorded Videos => [ 178 From 200 ]
 - [x] 177 - Request And Response From Real API
 - [x] 178 - Loop On Data
 
-### Asynchronous JavaScript Programming
+### Promises And API's And Training's
 
 - [ ] Pyramid Of Doom
 - [ ] Promise Intro
