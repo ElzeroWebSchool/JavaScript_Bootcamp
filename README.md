@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 179 From 200 ]
+Recorded Videos => [ 180 From 200 ]
 
-![89%](https://progress-bar.dev/89/?title=Done)
+![90%](https://progress-bar.dev/90/?title=Done)
 
 ### Introduction
 
@@ -180,19 +180,19 @@ Recorded Videos => [ 179 From 200 ]
 
 ### Regular Expressions
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 134 - Intro And What Is Regular Expression ?
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 135 - RegExp Modifiers
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 136 - RegExp Ranges Part 1
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 137 - RegExp Ranges Part 2
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 138 - RegExp Character Classes Part 1
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 139 - RegExp Character Classes Part 2
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 140 - RegExp Quantifiers Part 1
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 141 - RegExp Quantifiers Part 2
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 142 - RegExp Quantifiers Part 3
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 143 - Replace With The RegExp Pattern
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 144 - Form Validation Practice
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 145 - Test Your RegExp And Discussions
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 146 - RegExp Challenge
+- [x] `Uploaded` - 134 - Intro And What Is Regular Expression ?
+- [x] `Uploaded` - 135 - RegExp Modifiers
+- [x] `Uploaded` - 136 - RegExp Ranges Part 1
+- [x] `Uploaded` - 137 - RegExp Ranges Part 2
+- [x] `Uploaded` - 138 - RegExp Character Classes Part 1
+- [x] `Uploaded` - 139 - RegExp Character Classes Part 2
+- [x] `Uploaded` - 140 - RegExp Quantifiers Part 1
+- [x] `Uploaded` - 141 - RegExp Quantifiers Part 2
+- [x] `Uploaded` - 142 - RegExp Quantifiers Part 3
+- [x] `Uploaded` - 143 - Replace With The RegExp Pattern
+- [x] `Uploaded` - 144 - Form Validation Practice
+- [x] `Uploaded` - 145 - Test Your RegExp And Discussions
+- [x] `Uploaded` - 146 - RegExp Challenge
 
 ### Object Oriented Programming
 
@@ -238,7 +238,7 @@ Recorded Videos => [ 179 From 200 ]
 ### Promises And API's And Training's
 
 - [x] 179 - Callback Hell Or Pyramid Of Doom
-- [ ] Promise Intro
+- [x] 180 - Promise Intro And Syntax
 - [ ] Then And Catch
 - [ ] XHR And Promise
 - [ ] Promise All And Race
