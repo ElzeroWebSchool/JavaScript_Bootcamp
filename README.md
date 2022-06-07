@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 178 From 200 ]
+Recorded Videos => [ 179 From 200 ]
 
 ![89%](https://progress-bar.dev/89/?title=Done)
 
@@ -196,18 +196,18 @@ Recorded Videos => [ 178 From 200 ]
 
 ### Object Oriented Programming
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 147 - Object Oriented Programming Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 148 - Constructor Function Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 149 - Constructor Function New Syntax
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 150 - Constructor Function Deal With Properties & Methods
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 151 - Constructor Function Update Properties & Built In Constructors
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 152 - Class Static Properties And Methods
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 153 - Class Inheritance
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 154 - Class Encapsulation & Private Properties
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 155 - Prototype Introduction
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 156 - Add To Prototype Chain & Extend Constructors Features
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 157 - Object Meta Data And Descriptor Part 1
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 158 - Object Meta Data And Descriptor Part 2
+- [x] `Uploaded` - 147 - Object Oriented Programming Introduction
+- [x] `Uploaded` - 148 - Constructor Function Introduction
+- [x] `Uploaded` - 149 - Constructor Function New Syntax
+- [x] `Uploaded` - 150 - Constructor Function Deal With Properties & Methods
+- [x] `Uploaded` - 151 - Constructor Function Update Properties & Built In Constructors
+- [x] `Uploaded` - 152 - Class Static Properties And Methods
+- [x] `Uploaded` - 153 - Class Inheritance
+- [x] `Uploaded` - 154 - Class Encapsulation & Private Properties
+- [x] `Uploaded` - 155 - Prototype Introduction
+- [x] `Uploaded` - 156 - Add To Prototype Chain & Extend Constructors Features
+- [x] `Uploaded` - 157 - Object Meta Data And Descriptor Part 1
+- [x] `Uploaded` - 158 - Object Meta Data And Descriptor Part 2
 
 ### Date, Time, Generators And Modules
 
@@ -237,7 +237,7 @@ Recorded Videos => [ 178 From 200 ]
 
 ### Promises And API's And Training's
 
-- [ ] Pyramid Of Doom
+- [x] 179 - Callback Hell Or Pyramid Of Doom
 - [ ] Promise Intro
 - [ ] Then And Catch
 - [ ] XHR And Promise
