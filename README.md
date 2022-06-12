@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 180 From 200 ]
+Recorded Videos => [ 181 From 200 ]
 
 ![90%](https://progress-bar.dev/90/?title=Done)
 
@@ -239,7 +239,7 @@ Recorded Videos => [ 180 From 200 ]
 
 - [x] 179 - Callback Hell Or Pyramid Of Doom
 - [x] 180 - Promise Intro And Syntax
-- [ ] Then And Catch
+- [x] 181 - Promise Then And Catch And Finally
 - [ ] XHR And Promise
 - [ ] Promise All And Race
 - [ ] Async & Await
