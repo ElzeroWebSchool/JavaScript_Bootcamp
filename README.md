@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 187 From 200 ]
+Recorded Videos => [ 188 From 200 ]
 
-![93%](https://progress-bar.dev/93/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 ### Introduction
 
@@ -246,8 +246,5 @@ Recorded Videos => [ 187 From 200 ]
 - [x] 185 - Async And Trainings
 - [x] 186 - Await
 - [x] 187 - Try, Catch, Finally With Fetch
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] The End
+- [x] 188 - The End And Advices
 
