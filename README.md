@@ -1,8 +1,6 @@
 ![JavaScript Bootcamp](https://elzero.org/js.png)
 
-# JavaScript Bootcamp Content
-
-Recorded Videos => [ 188 From 200 ]
+# JavaScript Bootcamp Content [ 188 Videos ]
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
