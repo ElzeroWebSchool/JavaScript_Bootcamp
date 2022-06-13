@@ -2,9 +2,9 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 183 From 200 ]
+Recorded Videos => [ 184 From 200 ]
 
-![91%](https://progress-bar.dev/91/?title=Done)
+![92%](https://progress-bar.dev/92/?title=Done)
 
 ### Introduction
 
@@ -242,7 +242,7 @@ Recorded Videos => [ 183 From 200 ]
 - [x] 181 - Promise Then And Catch And Finally
 - [x] 182 - Promise And XHR 
 - [x] 183 - Fetch API
-- [ ] 184 - Promise All And Race
+- [x] 184 - Promise All And Race
 - [ ] 185 - Async & Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
