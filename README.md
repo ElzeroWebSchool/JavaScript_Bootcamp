@@ -242,8 +242,9 @@ Recorded Videos => [ 184 From 200 ]
 - [x] 181 - Promise Then And Catch And Finally
 - [x] 182 - Promise And XHR 
 - [x] 183 - Fetch API
-- [x] 184 - Promise All And Race
-- [ ] 185 - Async & Await
+- [x] 184 - Promise All And AllSettled And Race
+- [ ] 185 - Async
+- [ ] 186 - Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
 
