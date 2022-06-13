@@ -2,7 +2,7 @@
 
 # JavaScript Bootcamp Content
 
-Recorded Videos => [ 184 From 200 ]
+Recorded Videos => [ 185 From 200 ]
 
 ![92%](https://progress-bar.dev/92/?title=Done)
 
@@ -224,16 +224,16 @@ Recorded Videos => [ 184 From 200 ]
 
 ### Asynchronous Programming And JSON And AJAX
 
-- [x] 169 - Introduction And What Is JSON ?
-- [x] 170 - JSON Syntax And Compare With JavaScript
-- [x] 171 - API Overview And Tools
-- [x] 172 - Parse And Stringify
-- [x] 173 - Asynchronous vs Synchronous Programming
-- [x] 174 - CallStack, Web API
-- [x] 175 - Event Loop, Callback Queue
-- [x] 176 - What Is AJAX And Network Information
-- [x] 177 - Request And Response From Real API
-- [x] 178 - Loop On Data
+- [x] `Uploaded` - 169 - Introduction And What Is JSON ?
+- [x] `Uploaded` - 170 - JSON Syntax And Compare With JavaScript
+- [x] `Uploaded` - 171 - API Overview And Tools
+- [x] `Uploaded` - 172 - Parse And Stringify
+- [x] `Uploaded` - 173 - Asynchronous vs Synchronous Programming
+- [x] `Uploaded` - 174 - CallStack, Web API
+- [x] `Uploaded` - 175 - Event Loop, Callback Queue
+- [x] `Uploaded` - 176 - What Is AJAX And Network Information
+- [x] `Uploaded` - 177 - Request And Response From Real API
+- [x] `Uploaded` - 178 - Loop On Data
 
 ### Promises And API's And Training's
 
@@ -243,7 +243,7 @@ Recorded Videos => [ 184 From 200 ]
 - [x] 182 - Promise And XHR 
 - [x] 183 - Fetch API
 - [x] 184 - Promise All And AllSettled And Race
-- [ ] 185 - Async
+- [x] 185 - Async And Trainings
 - [ ] 186 - Await
 - [ ] Error Handling
 - [ ] Promise With Async / Await
