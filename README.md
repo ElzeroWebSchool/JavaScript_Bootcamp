@@ -235,14 +235,14 @@
 
 ### Promises And API's And Training's
 
-- [x] 179 - Callback Hell Or Pyramid Of Doom
-- [x] 180 - Promise Intro And Syntax
-- [x] 181 - Promise Then And Catch And Finally
-- [x] 182 - Promise And XHR 
-- [x] 183 - Fetch API
-- [x] 184 - Promise All And AllSettled And Race
-- [x] 185 - Async And Trainings
-- [x] 186 - Await
-- [x] 187 - Try, Catch, Finally With Fetch
-- [x] 188 - The End And Advices
+- [x] `Uploaded` 179 - Callback Hell Or Pyramid Of Doom
+- [x] `Uploaded` 180 - Promise Intro And Syntax
+- [x] `Uploaded` 181 - Promise Then And Catch And Finally
+- [x] `Uploaded` 182 - Promise And XHR 
+- [x] `Uploaded` 183 - Fetch API
+- [x] `Uploaded` 184 - Promise All And AllSettled And Race
+- [x] `Uploaded` 185 - Async And Trainings
+- [x] `Uploaded` 186 - Await
+- [x] `Uploaded` 187 - Try, Catch, Finally With Fetch
+- [x] `Uploaded` 188 - The End And Advices
 
