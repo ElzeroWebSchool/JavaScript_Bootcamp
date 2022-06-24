@@ -244,5 +244,5 @@
 - [x] `Uploaded` 185 - Async And Trainings
 - [x] `Uploaded` 186 - Await
 - [x] `Uploaded` 187 - Try, Catch, Finally With Fetch
-- [x] `Uploaded` 188 - The End And Advices
+- [ ] `Uploaded` 188 - The End And Advices
 
