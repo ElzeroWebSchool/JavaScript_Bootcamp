@@ -54,77 +54,77 @@
 
 ### Numbers And Strings
 
--   [x] `Uploaded` - 023 - Number
--   [x] `Uploaded` - 024 - Number Methods
--   [x] `Uploaded` - 025 - Math Object
--   [x] `Uploaded` - 026 - Number Challenge
--   [x] `Uploaded` - 027 - String Methods Part 1
--   [x] `Uploaded` - 028 - String Methods Part 2
--   [x] `Uploaded` - 029 - String Methods Part 3
--   [x] `Uploaded` - 030 - Strings Challenge
+-   [x] `Uploaded` - 023 - [Number](https://www.youtube.com/watch?v=7dMp1Iwtf24&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=23)
+-   [x] `Uploaded` - 024 - [Number Methods](https://www.youtube.com/watch?v=ECs2mCrS8Sc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=24)
+-   [x] `Uploaded` - 025 - [Math Object](https://www.youtube.com/watch?v=xBNM5Zbnh8Q&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=25)
+-   [x] `Uploaded` - 026 - [Number Challenge](https://www.youtube.com/watch?v=bu9_Wx-vO44&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=26)
+-   [x] `Uploaded` - 027 - [String Methods Part 1](https://www.youtube.com/watch?v=GtmsTGAq64s&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=27)
+-   [x] `Uploaded` - 028 - [String Methods Part 2](https://www.youtube.com/watch?v=3h2FBrcNOMQ&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=28)
+-   [x] `Uploaded` - 029 - [String Methods Part 3](https://www.youtube.com/watch?v=_vg-kxWEubk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=29)
+-   [x] `Uploaded` - 030 - [Strings Challenge](https://www.youtube.com/watch?v=-m-XctesrVM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=30)
 
 ### Control Flow
 
--   [x] `Uploaded` - 031 - Comparison Operators
--   [x] `Uploaded` - 032 - Logical Operators
--   [x] `Uploaded` - 033 - If Conditions
--   [x] `Uploaded` - 034 - Nested If
--   [x] `Uploaded` - 035 - Conditional (Ternary) Operator
--   [x] `Uploaded` - 036 - Nullish Coalescing Operator And Logical Or
--   [x] `Uploaded` - 037 - If Challenge
--   [x] `Uploaded` - 038 - Switch Statement
--   [x] `Uploaded` - 039 - Switch And If Challenges
+-   [x] `Uploaded` - 031 - [Comparison Operators](https://www.youtube.com/watch?v=YmgGtaCDP9Q&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=31)
+-   [x] `Uploaded` - 032 - [Logical Operators](https://www.youtube.com/watch?v=SR3wFWdsEaM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=32)
+-   [x] `Uploaded` - 033 - [If Conditions](https://www.youtube.com/watch?v=rUa4NQQn7Zc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=33)
+-   [x] `Uploaded` - 034 - [Nested If](https://www.youtube.com/watch?v=Innbt6DX64A&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=34)
+-   [x] `Uploaded` - 035 - [Conditional (Ternary) Operator](https://www.youtube.com/watch?v=zfBgIOaDBOM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=35)
+-   [x] `Uploaded` - 036 - [Nullish Coalescing Operator And Logical Or](https://www.youtube.com/watch?v=-VU6Gumxs4k&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=36)
+-   [x] `Uploaded` - 037 - [If Challenge](https://www.youtube.com/watch?v=qQ8AOc69GEI&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=37)
+-   [x] `Uploaded` - 038 - [Switch Statement](https://www.youtube.com/watch?v=1-5bIDFybDk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=38)
+-   [x] `Uploaded` - 039 - [Switch And If Challenges](https://www.youtube.com/watch?v=UYOmHW-5vwQ&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=39)
 
 ### Arrays
 
--   [x] `Uploaded` - 040 - Array Big Intro
--   [x] `Uploaded` - 041 - Using Length With Array
--   [x] `Uploaded` - 042 - Adding And Removing From Arrays
--   [x] `Uploaded` - 043 - Searching Arrays
--   [x] `Uploaded` - 044 - Sorting Arrays
--   [x] `Uploaded` - 045 - Slicing Arrays
--   [x] `Uploaded` - 046 - Joining Arrays And Elements
--   [x] `Uploaded` - 047 - Arrays Challenges
+-   [x] `Uploaded` - 040 - [Array Big Intro](https://www.youtube.com/watch?v=MLVJhya1CV0&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=40)
+-   [x] `Uploaded` - 041 - [Using Length With Array](https://www.youtube.com/watch?v=COMiJl7l6kw&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=41)
+-   [x] `Uploaded` - 042 - [Adding And Removing From Arrays](https://www.youtube.com/watch?v=VvPxe6qj5XY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=42)
+-   [x] `Uploaded` - 043 - [Searching Arrays](https://www.youtube.com/watch?v=ss75DBXkZ4Y&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=43)
+-   [x] `Uploaded` - 044 - [Sorting Arrays](https://www.youtube.com/watch?v=1hOTVQKYtNY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=44)
+-   [x] `Uploaded` - 045 - [Slicing Arrays](https://www.youtube.com/watch?v=MLcZ-12YW0U&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=45)
+-   [x] `Uploaded` - 046 - [Joining Arrays And Elements](https://www.youtube.com/watch?v=gDgw2sobpdU&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=46)
+-   [x] `Uploaded` - 047 - [Arrays Challenges](https://www.youtube.com/watch?v=YSxfPXLfSQM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=47[)
 
 ### Loop
 
--   [x] `Uploaded` - 048 - Loop For And Concept Of Loop
--   [x] `Uploaded` - 049 - Loop On Sequences
--   [x] `Uploaded` - 050 - Nested Loop For
--   [x] `Uploaded` - 051 - Loop Control - Break, Continue, Label
--   [x] `Uploaded` - 052 - Loop For Advanced Examples
--   [x] `Uploaded` - 053 - Create Products Elements
--   [x] `Uploaded` - 054 - Loop While
--   [x] `Uploaded` - 055 - Loop Do / While
--   [x] `Uploaded` - 056 - Loop Challenges
+-   [x] `Uploaded` - 048 - [Loop For And Concept Of Loop](https://www.youtube.com/watch?v=NnR4sYnnBoI&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=48)
+-   [x] `Uploaded` - 049 - [Loop On Sequences](https://www.youtube.com/watch?v=cgr2f_wmxmY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=49)
+-   [x] `Uploaded` - 050 - [Nested Loop For](https://www.youtube.com/watch?v=xPAk_2sed_M&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=50)
+-   [x] `Uploaded` - 051 - [Loop Control - Break, Continue, Label](https://www.youtube.com/watch?v=Z3fF7MrBPXc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=51)
+-   [x] `Uploaded` - 052 - [Loop For Advanced Examples](https://www.youtube.com/watch?v=2bK3u5qbzik&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=52)
+-   [x] `Uploaded` - 053 - [Create Products Elements](https://www.youtube.com/watch?v=5kD2LeFKPzE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=53)
+-   [x] `Uploaded` - 054 - [Loop While](https://www.youtube.com/watch?v=CkTIcjLufCE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=54)
+-   [x] `Uploaded` - 055 - [Loop Do / While](https://www.youtube.com/watch?v=STs3tI1kDzM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=55)
+-   [x] `Uploaded` - 056 - [Loop Challenges](https://www.youtube.com/watch?v=Db2QlMCFOIY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=56)
 
 ### Functions & Scope
 
--   [x] `Uploaded` - 057 - Function Intro And Basic Usage
--   [x] `Uploaded` - 058 - Function Advanced Example
--   [x] `Uploaded` - 059 - Function Return Statement And Use Cases
--   [x] `Uploaded` - 060 - Function Default Parameters
--   [x] `Uploaded` - 061 - Function Rest Parameters
--   [x] `Uploaded` - 062 - Ultimate Function
--   [x] `Uploaded` - 063 - Random Arguments Function Challenge
--   [x] `Uploaded` - 064 - Anonymous Function And Use Cases
--   [x] `Uploaded` - 065 - Return Nested Function
--   [x] `Uploaded` - 066 - Arrow Function
--   [x] `Uploaded` - 067 - Scope Global And Local
--   [x] `Uploaded` - 068 - Scope Block
--   [x] `Uploaded` - 069 - Scope Lexical (Static)
--   [x] `Uploaded` - 070 - Function Arrow Challenges
+-   [x] `Uploaded` - 057 - [Function Intro And Basic Usage](https://www.youtube.com/watch?v=wJ7hjluDQHI&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=57)
+-   [x] `Uploaded` - 058 - [Function Advanced Example](https://www.youtube.com/watch?v=zIy3YMFhy-o&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=58)
+-   [x] `Uploaded` - 059 - [Function Return Statement And Use Cases](https://www.youtube.com/watch?v=QuO3APKjP7o&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=59)
+-   [x] `Uploaded` - 060 - [Function Default Parameters](https://www.youtube.com/watch?v=J_2BRSluV7U&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=60)
+-   [x] `Uploaded` - 061 - [Function Rest Parameters](https://www.youtube.com/watch?v=XTZVhG90lM0&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=61)
+-   [x] `Uploaded` - 062 - [Ultimate Function](https://www.youtube.com/watch?v=fx7IxbfDEFY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=62)
+-   [x] `Uploaded` - 063 - [Random Arguments Function Challenge](https://www.youtube.com/watch?v=rLbr9bPrNcg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=63)
+-   [x] `Uploaded` - 064 - [Anonymous Function And Use Cases](https://www.youtube.com/watch?v=p2tjvCWSAfE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=64)
+-   [x] `Uploaded` - 065 - [Return Nested Function](https://www.youtube.com/watch?v=N2skhUPDWjw&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=65)
+-   [x] `Uploaded` - 066 - [Arrow Function](https://www.youtube.com/watch?v=UdCzA_upIbw&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=66)
+-   [x] `Uploaded` - 067 - [Scope Global And Local](https://www.youtube.com/watch?v=y1J61Ho_e4g&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=67)
+-   [x] `Uploaded` - 068 - [Scope Block](https://www.youtube.com/watch?v=MPJSE3lNkD4&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=68)
+-   [x] `Uploaded` - 069 - [Scope Lexical (Static)](https://www.youtube.com/watch?v=mM8U1qOq2hg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=69)
+-   [x] `Uploaded` - 070 - [Function Arrow Challenges](https://www.youtube.com/watch?v=JHOaa3dmMSU&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=70[)
 
 ### Higher Order Functions And Practice
 
--   [x] `Uploaded` - 071 - Array Map
--   [x] `Uploaded` - 072 - Array Map Practice
--   [x] `Uploaded` - 073 - Array Filter
--   [x] `Uploaded` - 074 - Array Filter Practice
--   [x] `Uploaded` - 075 - Array Reduce
--   [x] `Uploaded` - 076 - Array Reduce Practice
--   [x] `Uploaded` - 077 - Array ForEach And Practice
--   [x] `Uploaded` - 078 - Higher Order Functions Challenge
+-   [x] `Uploaded` - 071 - [Array Map](https://www.youtube.com/watch?v=hTUsHXxEvHc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=71)
+-   [x] `Uploaded` - 072 - [Array Map Practice](https://www.youtube.com/watch?v=T3rJ5JMxvgE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=72)
+-   [x] `Uploaded` - 073 - [Array Filter](https://www.youtube.com/watch?v=Np6AzHRR38s&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=73)
+-   [x] `Uploaded` - 074 - [Array Filter Practice](https://www.youtube.com/watch?v=-7UzTnJeUL8&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=74)
+-   [x] `Uploaded` - 075 - [Array Reduce](https://www.youtube.com/watch?v=F2dIgixMePE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=75)
+-   [x] `Uploaded` - 076 - [Array Reduce Practice](https://www.youtube.com/watch?v=EvZdtTz4KAs&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=76)
+-   [x] `Uploaded` - 077 - [Array ForEach And Practice](https://www.youtube.com/watch?v=O1Fq0xZThAg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=77)
+-   [x] `Uploaded` - 078 - [Higher Order Functions Challenge](https://www.youtube.com/watch?v=Wn-JbwQLAlA&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=78)
 
 ### Objects
 
