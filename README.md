@@ -4,25 +4,25 @@
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
-- [JavaScript Bootcamp Content \[ 188 Videos, 20 hours \]](#javascript-bootcamp-content--188-videos-20-hours-)
-    - [Introduction](#introduction)
-    - [Data Types And Variables](#data-types-and-variables)
-    - [Numbers And Strings](#numbers-and-strings)
-    - [Control Flow](#control-flow)
-    - [Arrays](#arrays)
-    - [Loop](#loop)
-    - [Functions \& Scope](#functions--scope)
-    - [Higher Order Functions And Practice](#higher-order-functions-and-practice)
-    - [Objects](#objects)
-    - [Document Object Model \[DOM\]](#document-object-model-dom)
-    - [Browser Object Model \[BOM\]](#browser-object-model-bom)
-    - [Destructuring](#destructuring)
-    - [More Methods And New Data Types](#more-methods-and-new-data-types)
-    - [Regular Expressions](#regular-expressions)
-    - [Object Oriented Programming](#object-oriented-programming)
-    - [Date, Time, Generators And Modules](#date-time-generators-and-modules)
-    - [Asynchronous Programming And JSON And AJAX](#asynchronous-programming-and-json-and-ajax)
-    - [Promises And API's And Training's](#promises-and-apis-and-trainings)
+-   [JavaScript Bootcamp Content \[ 188 Videos, 20 hours \]](#javascript-bootcamp-content--188-videos-20-hours-)
+    -   [Introduction](#introduction)
+    -   [Data Types And Variables](#data-types-and-variables)
+    -   [Numbers And Strings](#numbers-and-strings)
+    -   [Control Flow](#control-flow)
+    -   [Arrays](#arrays)
+    -   [Loop](#loop)
+    -   [Functions \& Scope](#functions--scope)
+    -   [Higher Order Functions And Practice](#higher-order-functions-and-practice)
+    -   [Objects](#objects)
+    -   [Document Object Model \[DOM\]](#document-object-model-dom)
+    -   [Browser Object Model \[BOM\]](#browser-object-model-bom)
+    -   [Destructuring](#destructuring)
+    -   [More Methods And New Data Types](#more-methods-and-new-data-types)
+    -   [Regular Expressions](#regular-expressions)
+    -   [Object Oriented Programming](#object-oriented-programming)
+    -   [Date, Time, Generators And Modules](#date-time-generators-and-modules)
+    -   [Asynchronous Programming And JSON And AJAX](#asynchronous-programming-and-json-and-ajax)
+    -   [Promises And API's And Training's](#promises-and-apis-and-trainings)
 
 ### Introduction
 
@@ -128,73 +128,73 @@
 
 ### Objects
 
--   [x] `Uploaded` - 079 - Object Intro
--   [x] `Uploaded` - 080 - Accessing Object With Dot vs Bracket Notation
--   [x] `Uploaded` - 081 - Nested Object and Advanced Examples
--   [x] `Uploaded` - 082 - Create Object With New Keyword
--   [x] `Uploaded` - 083 - This Keyword
--   [x] `Uploaded` - 084 - Create Object With Create Method
--   [x] `Uploaded` - 085 - Create Object With Assign Method
+-   [x] `Uploaded` - 079 - [Object Intro](https://www.youtube.com/watch?v=9dkSSPWu_qY&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=79)
+-   [x] `Uploaded` - 080 - [Accessing Object With Dot vs Bracket Notation](https://www.youtube.com/watch?v=C9AWlPyd9lo&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=80)
+-   [x] `Uploaded` - 081 - [Nested Object and Advanced Examples](https://www.youtube.com/watch?v=PbWkJcPrA1g&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=81)
+-   [x] `Uploaded` - 082 - [Create Object With New Keyword](https://www.youtube.com/watch?v=OIu_q4Ekg3w&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=82)
+-   [x] `Uploaded` - 083 - [This Keyword](https://www.youtube.com/watch?v=XnK3JYPtAJI&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=83)
+-   [x] `Uploaded` - 084 - [Create Object With Create Method](https://www.youtube.com/watch?v=pCT0ukMWqcQ&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=84)
+-   [x] `Uploaded` - 085 - [Create Object With Assign Method](https://www.youtube.com/watch?v=3DCEt5quosE&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=85)
 
 ### Document Object Model [DOM]
 
--   [x] `Uploaded` - 086 - What Is DOM ? And Select Elements
--   [x] `Uploaded` - 087 - Get / Set Elements Content And Attributes
--   [x] `Uploaded` - 088 - Check Attributes And Examples
--   [x] `Uploaded` - 089 - Create And Append Elements
--   [x] `Uploaded` - 090 - Product With Heading And Paragraph
--   [x] `Uploaded` - 091 - Deal With Childrens
--   [x] `Uploaded` - 092 - Dom Events
--   [x] `Uploaded` - 093 - Validate Form And Prevent Default
--   [x] `Uploaded` - 094 - Events Simulation - Click, Focus, Blur
--   [x] `Uploaded` - 095 - ClassList Object And Methods
--   [x] `Uploaded` - 096 - CSS Styling And Stylesheets
--   [x] `Uploaded` - 097 - Before, After, Prepend, Append, Remove
--   [x] `Uploaded` - 098 - DOM Traversing
--   [x] `Uploaded` - 099 - DOM Cloning
--   [x] `Uploaded` - 100 - Add Event Listener And Event Target
--   [x] `Uploaded` - 101 - DOM Challenge
+-   [x] `Uploaded` - 086 - [What Is DOM ? And Select Elements](https://www.youtube.com/watch?v=AOabnOI4vOQ&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=86)
+-   [x] `Uploaded` - 087 - [Get / Set Elements Content And Attributes](https://www.youtube.com/watch?v=9j9XvUnWndI&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=87)
+-   [x] `Uploaded` - 088 - [Check Attributes And Examples](https://www.youtube.com/watch?v=H6KTmUWx9A0&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=88)
+-   [x] `Uploaded` - 089 - [Create And Append Elements](https://www.youtube.com/watch?v=JNCu3XIjluk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=89)
+-   [x] `Uploaded` - 090 - [Product With Heading And Paragraph](https://www.youtube.com/watch?v=QQ6g0Yryh_s&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=90)
+-   [x] `Uploaded` - 091 - [Deal With Children](https://www.youtube.com/watch?v=DA3zF8Pm9Tc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=91)
+-   [x] `Uploaded` - 092 - [Dom Events](https://www.youtube.com/watch?v=BFd05UsHP48&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=92)
+-   [x] `Uploaded` - 093 - [Validate Form And Prevent Default](https://www.youtube.com/watch?v=Iq0K54HzdGs&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=93)
+-   [x] `Uploaded` - 094 - [Events Simulation - Click, Focus, Blur](https://www.youtube.com/watch?v=XY7GjH0DwYM&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=94)
+-   [x] `Uploaded` - 095 - [ClassList Object And Methods](https://www.youtube.com/watch?v=ShSLbgFu4gg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=95)
+-   [x] `Uploaded` - 096 - [CSS Styling And Stylesheets](https://www.youtube.com/watch?v=GELiBxWNdmo&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=96)
+-   [x] `Uploaded` - 097 - [Before, After, Prepend, Append, Remove](https://www.youtube.com/watch?v=5dTV-28Z868&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=97)
+-   [x] `Uploaded` - 098 - [DOM Traversing](https://www.youtube.com/watch?v=oTvOBJO5KHQ&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=98)
+-   [x] `Uploaded` - 099 - [DOM Cloning](https://www.youtube.com/watch?v=b3YxfLUzaFc&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=99)
+-   [x] `Uploaded` - 100 - [Add Event Listener And Event Target](https://www.youtube.com/watch?v=OsrT0kxQCvA&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=100)
+-   [x] `Uploaded` - 101 - [DOM Challenge](https://www.youtube.com/watch?v=mGhGjzIKEqk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=101)
 
 ### Browser Object Model [BOM]
 
--   [x] `Uploaded` - 102 - What Is BOM ?
--   [x] `Uploaded` - 103 - Alert, Confirm, Prompt
--   [x] `Uploaded` - 104 - setTimeout and clearTimeout Methods
--   [x] `Uploaded` - 105 - setInterval and clearInterval Methods
--   [x] `Uploaded` - 106 - Window Location Object
--   [x] `Uploaded` - 107 - Window Open And Close
--   [x] `Uploaded` - 108 - Window History Object
--   [x] `Uploaded` - 109 - Scroll, ScrollTo, ScrollBy, Focus, Print, Stop
--   [x] `Uploaded` - 110 - Scroll To Top Using ScrollY Practice
--   [x] `Uploaded` - 111 - Local Storage
--   [x] `Uploaded` - 112 - Local Storage Color Application
--   [x] `Uploaded` - 113 - Session Storage And Use Cases
--   [x] `Uploaded` - 114 - BOM Challenge
+-   [x] `Uploaded` - 102 - [What Is BOM ?]()
+-   [x] `Uploaded` - 103 - [Alert, Confirm, Prompt]()
+-   [x] `Uploaded` - 104 - [setTimeout and clearTimeout Methods]()
+-   [x] `Uploaded` - 105 - [setInterval and clearInterval Methods]()
+-   [x] `Uploaded` - 106 - [Window Location Object]()
+-   [x] `Uploaded` - 107 - [Window Open And Close]()
+-   [x] `Uploaded` - 108 - [Window History Object]()
+-   [x] `Uploaded` - 109 - [Scroll, ScrollTo, ScrollBy, Focus, Print, Stop]()
+-   [x] `Uploaded` - 110 - [Scroll To Top Using ScrollY Practice]()
+-   [x] `Uploaded` - 111 - [Local Storage]()
+-   [x] `Uploaded` - 112 - [Local Storage Color Application]()
+-   [x] `Uploaded` - 113 - [Session Storage And Use Cases]()
+-   [x] `Uploaded` - 114 - [BOM Challenge]()
 
 ### Destructuring
 
--   [x] `Uploaded` - 115 - Destructuring Arrays Part 1
--   [x] `Uploaded` - 116 - Destructuring Arrays Part 2
--   [x] `Uploaded` - 117 - Destructuring Arrays Part 3 Swap Variables
--   [x] `Uploaded` - 118 - Destructuring Object Part 1
--   [x] `Uploaded` - 119 - Destructuring Object Part 2
--   [x] `Uploaded` - 120 - Destructuring Function Parameters
--   [x] `Uploaded` - 121 - Destructuring Mixed Content
--   [x] `Uploaded` - 122 - Destructuring Challenge
+-   [x] `Uploaded` - 115 - [Destructuring Arrays Part 1]()
+-   [x] `Uploaded` - 116 - [Destructuring Arrays Part 2]()
+-   [x] `Uploaded` - 117 - [Destructuring Arrays Part 3 Swap Variables]()
+-   [x] `Uploaded` - 118 - [Destructuring Object Part 1]()
+-   [x] `Uploaded` - 119 - [Destructuring Object Part 2]()
+-   [x] `Uploaded` - 120 - [Destructuring Function Parameters]()
+-   [x] `Uploaded` - 121 - [Destructuring Mixed Content]()
+-   [x] `Uploaded` - 122 - [Destructuring Challenge]()
 
 ### More Methods And New Data Types
 
--   [x] `Uploaded` - 123 - Set Data Type And Methods
--   [x] `Uploaded` - 124 - Set vs WeakSet And Garbage Collector
--   [x] `Uploaded` - 125 - Map Data Type vs Object Full Comparison
--   [x] `Uploaded` - 126 - Map Methods
--   [x] `Uploaded` - 127 - Map vs WeakMap
--   [x] `Uploaded` - 128 - Array.from Method
--   [x] `Uploaded` - 129 - Array.copyWithin Method
--   [x] `Uploaded` - 130 - Array.some Method
--   [x] `Uploaded` - 131 - Array.every Method
--   [x] `Uploaded` - 132 - Spread Syntax And Use Cases
--   [x] `Uploaded` - 133 - Section Challenge
+-   [x] `Uploaded` - 123 - [Set Data Type And Methods]()
+-   [x] `Uploaded` - 124 - [Set vs WeakSet And Garbage Collector]()
+-   [x] `Uploaded` - 125 - [Map Data Type vs Object Full Comparison]()
+-   [x] `Uploaded` - 126 - [Map Methods]()
+-   [x] `Uploaded` - 127 - [Map vs WeakMap]()
+-   [x] `Uploaded` - 128 - [Array.from Method]()
+-   [x] `Uploaded` - 129 - [Array.copyWithin Method]()
+-   [x] `Uploaded` - 130 - [Array.some Method]()
+-   [x] `Uploaded` - 131 - [Array.every Method]()
+-   [x] `Uploaded` - 132 - [Spread Syntax And Use Cases]()
+-   [x] `Uploaded` - 133 - [Section Challenge]()
 
 ### Regular Expressions
 
