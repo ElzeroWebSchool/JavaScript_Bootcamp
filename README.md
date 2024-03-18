@@ -1,9 +1,3 @@
-![JavaScript Bootcamp](https://elzero.org/js.png)
-
-# JavaScript Bootcamp Content [ 188 Videos ]
-
-![100%](https://progress-bar.dev/100/?title=Done)
-
 
 
 ### Data Types And Variables
