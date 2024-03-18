@@ -4,17 +4,7 @@
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 
-### Introduction
 
-- [x] `Uploaded` - 001 - Introduction And What Is JavaScript ?
-- [x] `Uploaded` - 002 - How To Study The Course ?
-- [x] `Uploaded` - 003 - Setting Up Environment And Tools
-- [x] `Uploaded` - 004 - Work With Chrome Developer Tools
-- [x] `Uploaded` - 005 - Where To Put The Code ?
-- [x] `Uploaded` - 006 - Comments And Bad Practices
-- [x] `Uploaded` - 007 - Output To Screen
-- [x] `Uploaded` - 008 - Console Methods And Styling And WebAPI
-- [x] `Uploaded` - 009 - What Is ECMAScript ?
 
 ### Data Types And Variables
 
